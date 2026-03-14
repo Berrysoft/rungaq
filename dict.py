@@ -103,6 +103,7 @@ with open(args.ipt, "r") as ipt, open(args.ref, "r+") as ref, open(
                         ref.write("\n")
                         break
                 else:
+                    ipa = str(ipa)
                     opt.write("\\iparuby{{{}}}{{{}}}".format(character, ipa))
                     ref.write(character)
                     ref.write("\t")
