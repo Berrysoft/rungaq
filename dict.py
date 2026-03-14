@@ -82,7 +82,7 @@ with open(args.ipt, "r") as ipt, open(args.ref, "r+") as ref, open(
                 opt.write(character)
             else:
                 ipa = line[1].rstrip("\n")
-                opt.write("\\ruby{{{}}}{{\\ipafont {}}}".format(character, ipa))
+                opt.write("\\iparuby{{{}}}{{{}}}".format(character, ipa))
             continue
 
         q_ch = character
@@ -103,7 +103,7 @@ with open(args.ipt, "r") as ipt, open(args.ref, "r+") as ref, open(
                         ref.write("\n")
                         break
                 else:
-                    opt.write("\\ruby{{{}}}{{\\ipafont {}}}".format(character, ipa))
+                    opt.write("\\iparuby{{{}}}{{{}}}".format(character, ipa))
                     ref.write(character)
                     ref.write("\t")
                     ref.write(ipa)
