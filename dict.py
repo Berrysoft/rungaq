@@ -10,11 +10,12 @@ args = psr.parse_args()
 
 import pandas as pd
 import os
+from enum import Enum
 
 zh_dict = pd.read_excel("dict.xlsx", sheet_name="字典表")
 
 
-def print_explain(explain):
+def print_explain(explain: str):
     if "1" in explain:
         j = 0
         offset = 0
@@ -32,13 +33,28 @@ def print_explain(explain):
         print("  {}".format(explain))
 
 
-def query(character):
+class QueryType(Enum):
+    CHAR = 1
+    CHAR_WITH_PRON = 2
+    REPLACE = 3
+
+
+class QueryResult:
+    def __init__(
+        self, ty: QueryType, character: str | None = None, pron: str | None = None
+    ):
+        self.ty = ty
+        self.character = character
+        self.pron = pron
+
+
+def query(character: str) -> QueryResult:
     result = zh_dict.query("字 == @character", inplace=False)
     print("========= 字: {}".format(character))
     if result.empty:
-        return character, None
+        return QueryResult(QueryType.CHAR, character)
     elif len(result) == 1:
-        return character, result["音"].values[0]
+        return QueryResult(QueryType.CHAR_WITH_PRON, character, result["音"].values[0])
     else:
         for i in range(len(result)):
             row = result.iloc[i]
@@ -51,10 +67,15 @@ def query(character):
             if not pd.isna(explain):
                 print(" 注釋:")
                 print_explain(explain)
-        index = int(input("請選擇讀音: ")) - 1
-        if index < 0 or index >= len(result):
-            return None
-        return character, result["音"].values[index]
+        index = int(input("請選擇讀音: "))
+        if index == 0 or index > len(result):
+            return QueryResult(QueryType.REPLACE)
+        if index < 0:
+            return QueryResult(QueryType.BACKWARD)
+
+        return QueryResult(
+            QueryType.CHAR_WITH_PRON, character, result["音"].values[index - 1]
+        )
 
 
 chinese_punctuation = "、，。？！；：「」『』（）《》〈〉【】—…"
@@ -63,11 +84,14 @@ if not os.path.exists(args.ref):
     with open(args.ref, "w") as ref:
         pass
 
-with open(args.ipt, "r") as ipt, open(args.ref, "r+") as ref, open(
-    args.opt, "w"
-) as opt:
+with (
+    open(args.ipt, "r") as ipt,
+    open(args.ref, "r+") as ref,
+    open(args.opt, "w") as opt,
+):
     while True:
         character = ipt.read(1)
+        need_replace = False
         if not character:
             break
         if character.isascii():
@@ -77,20 +101,27 @@ with open(args.ipt, "r") as ipt, open(args.ref, "r+") as ref, open(
         if line is not None and line != "":
             assert character == line[0]
             print("========= 字: {}".format(character))
-            line = line.split("\t")
-            if len(line) < 2:
-                opt.write(character)
-            else:
-                ipa = line[1].rstrip("\n")
+            parts = line.split("\t")
+            if len(parts) >= 2:
+                ipa = parts[1].rstrip("\n")
                 opt.write("\\iparuby{{{}}}{{{}}}".format(character, ipa))
-            continue
-
-        q_ch = character
+                continue
+            elif character in chinese_punctuation:
+                opt.write(character)
+                continue
+            else:
+                line_size = len(line.encode("utf-8"))
+                ref.truncate(ref.tell() - line_size)
+                ref.seek(ref.tell() - line_size)
+                need_replace = True
+        if need_replace:
+            q_ch = input("請輸入替換字: ")
+        else:
+            q_ch = character
         while True:
             result = query(q_ch)
-            if result is not None:
-                _, ipa = result
-                if ipa is None:
+            match result.ty:
+                case QueryType.CHAR:
                     if character in chinese_punctuation:
                         opt.write(character)
                         ref.write(character)
@@ -102,18 +133,18 @@ with open(args.ipt, "r") as ipt, open(args.ref, "r+") as ref, open(
                         ref.write(character)
                         ref.write("\n")
                         break
-                else:
-                    ipa = str(ipa)
+                case QueryType.CHAR_WITH_PRON:
+                    ipa = str(result.pron)
                     opt.write("\\iparuby{{{}}}{{{}}}".format(character, ipa))
                     ref.write(character)
                     ref.write("\t")
                     ref.write(ipa)
                     ref.write("\n")
                     break
-            else:
-                q_ch = input("請輸入替換字: ")
-                if q_ch == "":
-                    opt.write(character)
-                    ref.write(character)
-                    ref.write("\n")
-                    break
+                case QueryType.REPLACE:
+                    q_ch = input("請輸入替換字: ")
+                    if q_ch == "":
+                        opt.write(character)
+                        ref.write(character)
+                        ref.write("\n")
+                        break
