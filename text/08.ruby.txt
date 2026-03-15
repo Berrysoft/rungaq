@@ -1,4 +1,4 @@
-\section*{\iparuby{泰}{l̥ˤas}\iparuby{伯}{pˤrak}\iparuby{第}{lˤih}\iparuby{八}{pˤret}}
+\section{\iparuby{泰}{l̥ˤas}\iparuby{伯}{pˤrak}\iparuby{第}{lˤih}\iparuby{八}{pˤret}}
 
 \iparuby{子}{tsəʔ}\iparuby{曰}{wat}：「\iparuby{泰}{l̥ˤas}\iparuby{伯}{pˤrak}，\iparuby{其}{gə}\iparuby{可}{kʰˤajʔ}\iparuby{謂}{wəs}\iparuby{至}{tih}\iparuby{德}{tˤək}\iparuby{也}{lajʔ}\iparuby{已}{jəʔ}\iparuby{矣}{ʔəʔ}！\iparuby{三}{sˤum}\iparuby{以}{ləʔ}\iparuby{天}{l̥ˤiŋ}\iparuby{下}{gˤraʔ}\iparuby{讓}{naŋ}，\iparuby{民}{min}\iparuby{無}{ma}\iparuby{得}{tˤək}\iparuby{而}{nə}\iparuby{稱}{tʰəŋ}\iparuby{焉}{ʔan}。」
 

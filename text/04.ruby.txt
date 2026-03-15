@@ -1,4 +1,4 @@
-\section*{\iparuby{里}{rəʔ}\iparuby{仁}{niŋ}\iparuby{第}{lˤih}\iparuby{四}{slis}}
+\section{\iparuby{里}{rəʔ}\iparuby{仁}{niŋ}\iparuby{第}{lˤih}\iparuby{四}{slis}}
 
 \iparuby{子}{tsəʔ}\iparuby{曰}{wat}：「\iparuby{里}{rəʔ}\iparuby{仁}{niŋ}\iparuby{爲}{waj}\iparuby{美}{mrəjʔ}。\iparuby{擇}{lˤrak}\iparuby{不}{pə}\iparuby{處}{tʰaʔ}\iparuby{仁}{niŋ}，\iparuby{焉}{ʔan}\iparuby{得}{tˤək}\iparuby{知}{treh}？」
 

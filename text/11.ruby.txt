@@ -1,4 +1,4 @@
-\section*{\iparuby{先}{sˤən}\iparuby{進}{tsiŋ}\iparuby{第}{lˤih}\iparuby{十}{gip}\iparuby{一}{ʔit}}
+\section{\iparuby{先}{sˤən}\iparuby{進}{tsiŋ}\iparuby{第}{lˤih}\iparuby{十}{gip}\iparuby{一}{ʔit}}
 
 \iparuby{子}{tsəʔ}\iparuby{曰}{wat}：「\iparuby{先}{sˤən}\iparuby{進}{tsiŋ}\iparuby{於}{ʔa}\iparuby{禮}{rˤiʔ}\iparuby{樂}{ŋˤrawk}，\iparuby{野}{laʔ}\iparuby{人}{niŋ}\iparuby{也}{lajʔ}；\iparuby{後}{gˤoʔ}\iparuby{進}{tsiŋ}\iparuby{於}{ʔa}\iparuby{禮}{rˤiʔ}\iparuby{樂}{ŋˤrawk}，\iparuby{君}{kun}\iparuby{子}{tsəʔ}\iparuby{也}{lajʔ}。\iparuby{如}{na}\iparuby{用}{loŋ}\iparuby{之}{tə}，\iparuby{則}{tsˤək}\iparuby{吾}{ŋˤa}\iparuby{從}{dzoŋ}\iparuby{先}{sˤən}\iparuby{進}{tsiŋ}。」
 
