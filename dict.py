@@ -68,10 +68,8 @@ def query(character: str) -> QueryResult:
                 print(" 注釋:")
                 print_explain(explain)
         index = int(input("請選擇讀音: "))
-        if index == 0 or index > len(result):
+        if index <= 0 or index > len(result):
             return QueryResult(QueryType.REPLACE)
-        if index < 0:
-            return QueryResult(QueryType.BACKWARD)
 
         return QueryResult(
             QueryType.CHAR_WITH_PRON, character, result["音"].values[index - 1]
