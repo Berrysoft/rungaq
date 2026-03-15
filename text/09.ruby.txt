@@ -1,4 +1,4 @@
-\section{\iparuby{子}{tsəʔ}\iparuby{罕}{hˤanʔ}\iparuby{第}{lˤih}\iparuby{九}{kuʔ}}
+\section[子罕第九]{\iparuby{子}{tsəʔ}\iparuby{罕}{hˤanʔ}\iparuby{第}{lˤih}\iparuby{九}{kuʔ}}
 
 \iparuby{子}{tsəʔ}\iparuby{罕}{hˤanʔ}\iparuby{言}{ŋan}\iparuby{利}{ris}\iparuby{與}{jaʔ}\iparuby{命}{mreŋ}\iparuby{與}{jaʔ}\iparuby{仁}{niŋ}。
 

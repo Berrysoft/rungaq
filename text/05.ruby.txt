@@ -1,4 +1,4 @@
-\section{\iparuby{公}{kjoŋ}\iparuby{冶}{jaʔ}\iparuby{長}{draŋ}\iparuby{第}{lˤih}\iparuby{五}{ŋˤaʔ}}
+\section[公冶長第五]{\iparuby{公}{kjoŋ}\iparuby{冶}{jaʔ}\iparuby{長}{draŋ}\iparuby{第}{lˤih}\iparuby{五}{ŋˤaʔ}}
 
 \iparuby{子}{tsəʔ}\iparuby{謂}{wəs}\iparuby{公}{kjoŋ}\iparuby{冶}{jaʔ}\iparuby{長}{draŋ}，「\iparuby{可}{kʰˤajʔ}\iparuby{妻}{tsʰˤəjh}\iparuby{也}{lajʔ}；\iparuby{雖}{ẘi}\iparuby{在}{dzˤəʔ}\iparuby{縲}{ruj}\iparuby{絏}{las}\iparuby{之}{tə}\iparuby{中}{truŋ}，\iparuby{非}{pəj}\iparuby{其}{gə}\iparuby{罪}{dzˤujʔ}\iparuby{也}{lajʔ}。」\iparuby{以}{ləʔ}\iparuby{其}{gə}\iparuby{子}{tsəʔ}\iparuby{妻}{tsʰˤəjh}\iparuby{之}{tə}。
 

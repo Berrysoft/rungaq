@@ -1,4 +1,4 @@
-\section{\iparuby{八}{pˤret}\iparuby{佾}{lət}\iparuby{第}{lˤih}\iparuby{三}{sˤum}}
+\section[八佾第三]{\iparuby{八}{pˤret}\iparuby{佾}{lət}\iparuby{第}{lˤih}\iparuby{三}{sˤum}}
 
 \iparuby{孔}{kʰˤoŋʔ}\iparuby{子}{tsəʔ}\iparuby{謂}{wəs}\iparuby{季}{kwis}\iparuby{氏}{deʔ}：「\iparuby{八}{pˤret}\iparuby{佾}{lət}\iparuby{舞}{maʔ}\iparuby{於}{ʔa}\iparuby{庭}{lˤeŋ}。\iparuby{是}{deʔ}\iparuby{可}{kʰˤajʔ}\iparuby{忍}{nənʔ}\iparuby{也}{lajʔ}，\iparuby{孰}{duk}\iparuby{不}{pə}\iparuby{可}{kʰˤajʔ}\iparuby{忍}{nənʔ}\iparuby{也}{lajʔ}！」
 

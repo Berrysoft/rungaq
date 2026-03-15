@@ -1,4 +1,4 @@
-\section{\iparuby{爲}{waj}\iparuby{政}{teŋh}\iparuby{第}{lˤih}\iparuby{二}{nis}}
+\section[爲政第二]{\iparuby{爲}{waj}\iparuby{政}{teŋh}\iparuby{第}{lˤih}\iparuby{二}{nis}}
 
 \iparuby{子}{tsəʔ}\iparuby{曰}{wat}：「\iparuby{爲}{waj}\iparuby{政}{teŋh}\iparuby{以}{ləʔ}\iparuby{德}{tˤək}，\iparuby{譬}{pʰeh}\iparuby{如}{na}\iparuby{北}{pˤək}\iparuby{辰}{dən}，\iparuby{居}{kra}\iparuby{其}{gə}\iparuby{所}{ŋ̊raʔ}，\iparuby{而}{nə}\iparuby{眾}{tuŋ}\iparuby{星}{sˤeŋ}\iparuby{共}{koŋʔ}\iparuby{之}{tə}。」
 

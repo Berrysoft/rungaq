@@ -1,4 +1,4 @@
-\section{\iparuby{述}{mlut}\iparuby{而}{nə}\iparuby{第}{lˤih}\iparuby{七}{tsʰit}}
+\section[述而第七]{\iparuby{述}{mlut}\iparuby{而}{nə}\iparuby{第}{lˤih}\iparuby{七}{tsʰit}}
 
 \iparuby{子}{tsəʔ}\iparuby{曰}{wat}：「\iparuby{述}{mlut}\iparuby{而}{nə}\iparuby{不}{pə}\iparuby{作}{tsˤak}，\iparuby{信}{siŋ}\iparuby{而}{nə}\iparuby{好}{n̥ˤuh}\iparuby{古}{kˤaʔ}，\iparuby{竊}{tsʰˤet}\iparuby{比}{piʔ}\iparuby{於}{ʔa}\iparuby{我}{ŋˤajʔ}\iparuby{老}{C.rˤuʔ}\iparuby{彭}{bˤraŋ}。」
 

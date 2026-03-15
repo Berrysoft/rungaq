@@ -87,11 +87,23 @@ with (
     open(args.ref, "r+") as ref,
     open(args.opt, "w") as opt,
 ):
+    in_sqr_bracket = 0
     while True:
         character = ipt.read(1)
         need_replace = False
         if not character:
             break
+        if character == "[":
+            in_sqr_bracket += 1
+            opt.write(character)
+            continue
+        elif character == "]":
+            in_sqr_bracket -= 1
+            opt.write(character)
+            continue
+        if in_sqr_bracket > 0:
+            opt.write(character)
+            continue
         if character.isascii():
             opt.write(character)
             continue
