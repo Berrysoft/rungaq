@@ -178,7 +178,7 @@
 如	na
 也	lajʔ
 ，
-屛	peŋʔ
+屏	peŋʔ
 氣	kʰəs
 似	sləʔ
 不	pə
@@ -192,7 +192,7 @@
 等	tˤəʔ
 ，
 逞	l̥reŋ
-顏	ŋˤran
+顔	ŋˤran
 色	ŋ̊rək
 ，
 怡	lə
@@ -200,7 +200,7 @@
 如	na
 也	lajʔ
 。
-沒	mˤut
+没	mˤut
 階	kˤri
 趨	tsʰo
 進	tsiŋ
@@ -304,7 +304,7 @@
 麑	ŋˤe
 裘	gwə
 ，
-黃	gwˤaŋ
+黄	gwˤaŋ
 衣	ʔəj
 狐	gwˤa
 裘	gwə
@@ -535,7 +535,7 @@
 。
 鄉	haŋ
 人	niŋ
-飮	ʔumʔ
+飲	ʔumʔ
 酒	tsuʔ
 ，
 杖	draŋʔ
@@ -790,7 +790,7 @@
 車	j̊a
 中	truŋ
 不	pə
-內	nˤəps
+内	nˤəps
 顧	kwˤah
 ，
 不	pə

@@ -105,7 +105,7 @@
 。
 」
 子	tsəʔ
-絕	dzot
+絶	dzot
 四	slis
 ：
 「
@@ -133,12 +133,12 @@
 文	mən
 王	waŋ
 既	kəs
-沒	mˤut
+没	mˤut
 ，
 文	mən
 不	pə
 在	dzˤəʔ
-茲	tsə
+兹	tsə
 乎	gˤa
 ？
 天	l̥ˤiŋ
@@ -352,7 +352,7 @@
 必	pik
 趨	tsʰo
 。
-顏	ŋˤran
+顔	ŋˤran
 淵	ʔwˤiŋ
 喟	kʰwrəs
 然	nan
@@ -733,7 +733,7 @@
 」
 子	tsəʔ
 謂	wəs
-顏	ŋˤran
+顔	ŋˤran
 淵	ʔwˤiŋ
 ，
 曰	wat
@@ -844,7 +844,7 @@
 ，
 能	nˤə
 無	ma
-說	lot
+説	lot
 乎	gˤa
 ？
 繹	lak
@@ -852,7 +852,7 @@
 爲	waj
 貴	kus
 。
-說	lot
+説	lot
 而	nə
 不	pə
 繹	lak
@@ -920,7 +920,7 @@
 「
 衣	ʔəjh
 敝	bes
-縕	ʔˤun
+緼	ʔˤun
 袍	bˤu
 ，
 與	jaʔ

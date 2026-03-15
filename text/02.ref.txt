@@ -152,7 +152,7 @@
 御	ŋaʔ
 ，
 子	tsəʔ
-吿	kˤuk
+告	kˤuk
 之	tə
 曰	wat
 ：
@@ -262,7 +262,7 @@
 ，
 何	gˤaj
 以	ləʔ
-別	pret
+别	pret
 乎	gˤa
 ？
 」
@@ -370,7 +370,7 @@
 曰	wat
 ：
 「
-溫	ʔˤun
+温	ʔˤun
 故	kˤah
 而	nə
 知	tre
@@ -500,7 +500,7 @@
 張	traŋ
 學	gˤruk
 干	kˤan
-祿	C.rˤok
+禄	C.rˤok
 。
 子	tsəʔ
 曰	wat
@@ -511,7 +511,7 @@
 闕	kʰwat
 疑	ŋə
 ，
-愼	dən
+慎	dən
 言	ŋan
 其	gə
 餘	la
@@ -525,7 +525,7 @@
 闕	kʰwat
 殆	lˤəʔ
 ，
-愼	dən
+慎	dən
 行	gˤraŋ
 其	gə
 餘	la
@@ -542,7 +542,7 @@
 寡	kwˤraʔ
 悔	m̥ˤəʔ
 ，
-祿	C.rˤok
+禄	C.rˤok
 在	dzˤəʔ
 其	gə
 中	truŋ

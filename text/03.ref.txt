@@ -193,7 +193,7 @@
 子	tsəʔ
 無	ma
 所	ŋ̊raʔ
-爭	tsˤreŋ
+争	tsˤreŋ
 ，
 必	pik
 也	lajʔ
@@ -207,10 +207,10 @@
 ，
 下	gˤraʔ
 而	nə
-飮	ʔumʔ
+飲	ʔumʔ
 ，
 其	gə
-爭	tsˤreŋ
+争	tsˤreŋ
 也	lajʔ
 君	kun
 子	tsəʔ
@@ -359,7 +359,7 @@
 禘	dˤeh
 」
 之	tə
-說	l̥ot
+説	l̥ot
 。
 子	tsəʔ
 曰	wat
@@ -371,7 +371,7 @@
 。
 知	tre
 其	gə
-說	l̥ot
+説	l̥ot
 者	taʔ
 之	tə
 於	ʔa
@@ -427,7 +427,7 @@
 其	gə
 媚	mrəjh
 於	ʔa
-奧	ʔˤuh
+奥	ʔˤuh
 ，
 寧	nˤeŋ
 媚	mrəjh
@@ -547,7 +547,7 @@
 貢	kˤoŋh
 欲	jok
 去	kʰaʔ
-吿	kˤuh
+告	kˤuh
 朔	ŋ̊rak
 之	tə
 餼	həs
@@ -694,7 +694,7 @@
 成	deŋ
 事	dzrəh
 不	pə
-說	l̥ot
+説	l̥ot
 ，
 遂	slus
 事	dzrəh

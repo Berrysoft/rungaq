@@ -187,7 +187,7 @@
 。
 」
 子	tsəʔ
-說	lot
+説	lot
 。
 子	tsəʔ
 曰	wat
@@ -654,7 +654,7 @@
 子	tsəʔ
 謂	wəs
 子	tsəʔ
-產	ŋ̊ranʔ
+産	ŋ̊ranʔ
 ：
 「
 有	wəʔ
@@ -721,7 +721,7 @@
 山	sran
 節	tsˤik
 藻	tsˤawʔ
-梲	l̥ˤot
+棁	l̥ˤot
 。
 何	gˤaj
 如	na
@@ -756,7 +756,7 @@
 之	tə
 ，
 無	ma
-慍	ʔunh
+愠	ʔunh
 色	ŋ̊rək
 。
 舊	gwəh
@@ -767,7 +767,7 @@
 ，
 必	pik
 以	ləʔ
-吿	kˤuk
+告	kˤuk
 新	siŋ
 令	C.reŋh
 尹	winʔ
@@ -806,7 +806,7 @@
 「
 崔	tsʰˤuj
 子	tsəʔ
-弒	l̥əh
+弑	l̥əh
 齊	dzˤəj
 君	kun
 ，
@@ -873,7 +873,7 @@
 曰	wat
 ：
 「
-淸	tsʰeŋ
+清	tsʰeŋ
 矣	ʔəʔ
 。
 」
@@ -1075,7 +1075,7 @@
 之	tə
 。
 」
-顏	ŋˤran
+顔	ŋˤran
 淵	ʔwˤiŋ
 、
 季	kwis
@@ -1116,7 +1116,7 @@
 憾	gˤəmh
 。
 」
-顏	ŋˤran
+顔	ŋˤran
 淵	ʔwˤiŋ
 曰	wat
 ：
@@ -1180,7 +1180,7 @@
 過	kwˤajh
 ，
 而	nə
-內	nˤəps
+内	nˤəps
 自	dzis
 訟	sjoŋ
 者	taʔ
