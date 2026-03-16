@@ -1,0 +1,3 @@
+[submodule "t2gov"]
+	path = t2gov
+	url = https://github.com/TerryTian-tech/OpenCC-Traditional-Chinese-characters-according-to-Chinese-government-standards.git

@@ -11,6 +11,10 @@ args = psr.parse_args()
 import pandas as pd
 import os
 from enum import Enum
+import opencc
+
+t2new = opencc.OpenCC("t2gov/t2gov/t2new.json")
+t2gov = opencc.OpenCC("t2gov/t2gov/t2gov.json")
 
 zh_dict = pd.read_excel("dict.xlsx", sheet_name="字典表")
 
@@ -49,7 +53,11 @@ class QueryResult:
 
 
 def query(character: str) -> QueryResult:
-    result = zh_dict.query("字 == @character", inplace=False)
+    char_new = t2new.convert(character)
+    char_gov = t2gov.convert(character)
+    result = zh_dict.query(
+        "字 == @character or 字 == @char_new or 字 == @char_gov", inplace=False
+    )
     print("========= 字: {}".format(character))
     if result.empty:
         return QueryResult(QueryType.CHAR, character)
