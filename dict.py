@@ -66,7 +66,7 @@ def query(character: str) -> QueryResult:
     else:
         for i in range(len(result)):
             row = result.iloc[i]
-            print("{}) {}".format(i + 1, row["音"]))
+            print("{}) {} {}".format(i + 1, row["字"], row["音"]))
             explain = row["釋義"]
             if not pd.isna(explain):
                 print(" 釋義:")
