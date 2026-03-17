@@ -401,7 +401,7 @@
 武	maʔ
 仲	druŋh
 之	tə
-知	tre
+知	treh
 ，
 公	kjoŋ
 綽	tʰawk
@@ -490,7 +490,7 @@
 曰	wat
 ：
 「
-信	siŋ
+信	siŋh
 乎	gˤa
 ？
 夫	pa
@@ -1151,7 +1151,7 @@
 不	pə
 憂	ʔu
 ，
-知	tre
+知	treh
 者	taʔ
 不	pə
 惑	wˤək
@@ -1543,7 +1543,6 @@
 有	wəʔ
 荷	gˤajʔ
 蕢	grus
-者	taʔ
 而	nə
 過	kwˤaj
 孔	kʰˤoŋʔ
