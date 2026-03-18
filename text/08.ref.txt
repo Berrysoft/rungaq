@@ -341,7 +341,7 @@
 亦	jak
 重	droŋʔ
 乎	gˤa
-；
+？
 死	sliʔ
 而	nə
 後	gˤoʔ
@@ -351,7 +351,7 @@
 亦	jak
 遠	wanʔ
 乎	gˤa
-。
+？
 」
 子	tsəʔ
 曰	wat
@@ -544,15 +544,16 @@
 之	tə
 始	l̥əʔ
 ，
+《
 關	kˤron
 雎	tsʰa
+》
 之	tə
 亂	rˤonh
 ，
 洋	jaŋ
 洋	jaŋ
 乎	gˤa
-，
 盈	leŋ
 耳	nəʔ
 哉	tsˤə

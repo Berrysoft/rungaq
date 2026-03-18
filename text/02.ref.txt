@@ -21,7 +21,7 @@
 所	ŋ̊raʔ
 ，
 而	nə
-眾	tuŋ
+衆	tuŋ
 星	sˤeŋ
 共	koŋʔ
 之	tə
@@ -220,7 +220,6 @@
 「
 父	baʔ
 母	məʔ
-，
 唯	wi
 其	gə
 疾	dzik
@@ -316,6 +315,7 @@
 ，
 不	pə
 違	wəj
+，
 如	na
 愚	ŋo
 。
@@ -568,7 +568,7 @@
 曰	wat
 ：
 「
-擧	kjaʔ
+舉	kjaʔ
 直	drək
 錯	tsʰˤah
 諸	ta
@@ -578,7 +578,7 @@
 民	min
 服	bək
 ；
-擧	kjaʔ
+舉	kjaʔ
 枉	ʔwaŋʔ
 錯	tsʰˤah
 諸	ta
@@ -626,7 +626,7 @@
 則	tsˤək
 忠	truŋ
 ；
-擧	kjaʔ
+舉	kjaʔ
 善	danʔ
 而	nə
 教	kˤrawh

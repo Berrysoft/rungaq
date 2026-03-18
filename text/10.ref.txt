@@ -202,6 +202,7 @@
 。
 没	mˤut
 階	kˤri
+，
 趨	tsʰo
 進	tsiŋ
 ，
@@ -317,7 +318,6 @@
 右	wəʔ
 袂	kwˤet
 。
-（
 必	pik
 有	wəʔ
 寢	tsʰimʔ
@@ -329,7 +329,6 @@
 有	wəh
 半	pˤanh
 。
-）
 狐	gwˤa
 貉	gˤak
 之	tə
@@ -519,6 +518,7 @@
 食	mlək
 菜	tsʰˤəh
 羹	kˤraŋ
+，
 瓜	kwˤra
 祭	tses
 ，
@@ -530,6 +530,7 @@
 席	trak
 不	pə
 正	teŋ
+，
 不	pə
 坐	dzˤojʔ
 。
@@ -803,7 +804,7 @@
 。
 色	ŋ̊rək
 斯	se
-擧	kjah
+舉	kjah
 矣	ʔəʔ
 ，
 翔	sjaŋ

@@ -4,6 +4,7 @@
 二	nis
 十	gip
 二	nis
+孔	kʰˤoŋʔ
 子	tsəʔ
 知	tre
 道	lˤuʔ
@@ -11,11 +12,12 @@
 易	leh
 也	lajʔ
 ，
+「
 易	leh
 易	leh
+」
 云	wən
 者	taʔ
-，
 三	sˤum
 日	nik
 。

@@ -437,8 +437,13 @@
 ，
 樂	ŋˤrawk
 則	tsˤək
+《
 韶	daw
+》
+、
+《
 舞	maʔ
+》
 。
 放	paŋh
 鄭	dreŋh
@@ -499,7 +504,6 @@
 臧	tsˤaŋ
 文	mən
 仲	druŋh
-，
 其	gə
 竊	tsʰˤet
 位	wrəps
@@ -527,7 +531,6 @@
 躬	kuŋ
 自	dzis
 厚	gˤroʔ
-，
 而	nə
 薄	bˤak
 責	tsˤrek
@@ -702,7 +705,7 @@
 不	pə
 以	ləʔ
 言	ŋan
-擧	kjaʔ
+舉	kjaʔ
 人	niŋ
 ，
 不	pə
@@ -845,7 +848,7 @@
 曰	wat
 ：
 「
-眾	tuŋ
+衆	tuŋ
 惡	ʔˤah
 之	tə
 ，
@@ -853,7 +856,7 @@
 察	tsʰˤres
 焉	ʔan
 ；
-眾	tuŋ
+衆	tuŋ
 好	n̥ˤuh
 之	tə
 ，
