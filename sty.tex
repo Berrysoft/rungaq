@@ -1,0 +1,36 @@
+\documentclass{ctexart}
+
+\usepackage{luatexja-ruby}
+\usepackage{fontspec}
+\usepackage[fontsize=20pt]{fontsize}
+\usepackage{geometry}
+\usepackage{hyperref}
+
+\geometry{a4paper, scale=0.8}
+
+\newfontfamily\ipafont{Charis SIL}
+
+\ltjsetruby{size=0.35}
+
+\newcommand{\iparuby}[2]{\ruby{#1}{\ipafont #2}}
+\ctexset{
+  subsection/format += \centering
+}
+
+\input{sty/00.ruby.tex}
+\author{上古汉语音节表 26.8.21}
+\date{}
+
+\setcounter{secnumdepth}{0}
+
+\begin{document}
+\maketitle
+\tableofcontents
+\newpage
+
+\kaishu
+\setlength{\parskip}{1em}
+
+\input{sty/kwykpym/index.ruby.tex}
+
+\end{document}
