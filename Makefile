@@ -1,2 +1,4 @@
+ARGS=
+
 %.ruby.tex %.ref.txt &: %.tex
-	python dict.py $< --ref $*.ref.txt -o $*.ruby.tex
+	python dict.py $< --ref $*.ref.txt -o $*.ruby.tex $(ARGS)
