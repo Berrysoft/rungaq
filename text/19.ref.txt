@@ -12,7 +12,7 @@
 見	kˤenh
 危	ŋoj
 致	trih
-命	mreŋ
+命	mriŋ
 ，
 見	kˤenh
 得	tˤək
@@ -94,14 +94,14 @@
 ：
 『
 可	kʰˤajʔ
-者	taʔ
+者	tiaʔ
 與	jaʔ
 之	tə
 ，
 其	gə
 不	pə
 可	kʰˤajʔ
-者	taʔ
+者	tiaʔ
 拒	gaʔ
 之	tə
 。
@@ -139,7 +139,7 @@
 之	tə
 大	lˤas
 賢	gˤin
-與	ja
+與	jaʔ
 ，
 於	ʔa
 人	niŋ
@@ -152,7 +152,7 @@
 之	tə
 不	pə
 賢	gˤin
-與	ja
+與	jaʔ
 ，
 人	niŋ
 將	tsaŋ
@@ -180,8 +180,8 @@
 必	pik
 有	wəʔ
 可	kʰˤajʔ
-觀	kwˤan
-者	taʔ
+觀	kˤon
+者	tiaʔ
 焉	ʔan
 ，
 致	trih
@@ -462,7 +462,7 @@
 始	l̥əʔ
 有	wəʔ
 卒	tsut
-者	taʔ
+者	tiaʔ
 ，
 其	gə
 惟	wi
@@ -559,7 +559,7 @@
 有	wəʔ
 自	dzis
 致	trih
-者	taʔ
+者	tiaʔ
 也	lajʔ
 ，
 必	pik
@@ -670,7 +670,7 @@
 如	na
 是	deʔ
 之	tə
-甚	dumʔ
+甚	dəmʔ
 也	lajʔ
 。
 是	deʔ
@@ -680,7 +680,7 @@
 惡	ʔˤah
 居	kra
 下	gˤraʔ
-流	ru
+流	C.ru
 ，
 天	l̥ˤiŋ
 下	gˤraʔ
@@ -738,7 +738,7 @@
 ：
 「
 仲	druŋh
-尼	nrəj
+尼	nri
 焉	ʔan
 學	gˤruk
 ？
@@ -757,25 +757,25 @@
 未	məs
 墜	lrus
 於	ʔa
-地	lˤaj
+地	lˤajh
 ，
 在	dzˤəʔ
 人	niŋ
 。
 賢	gˤin
-者	taʔ
+者	tiaʔ
 識	stək
 其	gə
 大	lˤas
-者	taʔ
+者	tiaʔ
 ，
 不	pə
 賢	gˤin
-者	taʔ
+者	tiaʔ
 識	stək
 其	gə
 小	sewʔ
-者	taʔ
+者	tiaʔ
 ，
 莫	mˤak
 不	pə
@@ -820,7 +820,7 @@
 賢	gˤin
 於	ʔa
 仲	druŋh
-尼	nrəj
+尼	nri
 。
 」
 子	tsəʔ
@@ -885,7 +885,7 @@
 得	tˤək
 其	gə
 門	mˤən
-者	taʔ
+者	tiaʔ
 或	wˤək
 寡	kwˤraʔ
 矣	ʔəʔ
@@ -907,7 +907,7 @@
 叔	stiwk
 毁	ẘajʔ
 仲	druŋh
-尼	nrəj
+尼	nri
 。
 子	tsəʔ
 貢	kˤoŋh
@@ -920,7 +920,7 @@
 也	lajʔ
 ，
 仲	druŋh
-尼	nrəj
+尼	nri
 不	pə
 可	kʰˤajʔ
 毁	ẘajʔ
@@ -930,7 +930,7 @@
 人	niŋ
 之	tə
 賢	gˤin
-者	taʔ
+者	tiaʔ
 ，
 丘	kʰwə
 陵	rəŋ
@@ -942,7 +942,7 @@
 也	lajʔ
 ；
 仲	druŋh
-尼	nrəj
+尼	nri
 ，
 日	nik
 月	ŋwat
@@ -992,7 +992,7 @@
 也	lajʔ
 ，
 仲	druŋh
-尼	nrəj
+尼	nri
 豈	kʰəjʔ
 賢	gˤin
 於	ʔa
@@ -1040,7 +1040,7 @@
 之	tə
 不	pə
 可	kʰˤajʔ
-階	kˤri
+階	kˤrəj
 而	nə
 升	stəŋ
 也	lajʔ
@@ -1051,7 +1051,7 @@
 得	tˤək
 邦	pˤroŋ
 家	kˤra
-者	taʔ
+者	tiaʔ
 ，
 所	ŋ̊raʔ
 謂	wəs

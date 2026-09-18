@@ -47,7 +47,7 @@
 有	wəʔ
 司	l̥əh
 。
-赦	jah
+赦	jiah
 小	sewʔ
 過	kwˤajh
 。
@@ -83,7 +83,7 @@
 ，
 人	niŋ
 其	gə
-舍	l̥aʔ
+舍	l̥iaʔ
 諸	ta
 ？
 」
@@ -140,10 +140,10 @@
 曰	wat
 ：
 「
-野	laʔ
+野	liaʔ
 哉	tsˤə
 ，
-由	liw
+由	lu
 也	lajʔ
 ！
 君	kun
@@ -185,12 +185,12 @@
 禮	rˤiʔ
 樂	ŋˤrawk
 不	pə
-興	hjəŋ
+興	j̊əŋ
 ；
 禮	rˤiʔ
 樂	ŋˤrawk
 不	pə
-興	hjəŋ
+興	j̊əŋ
 ，
 則	tsˤək
 刑	gˤeŋ
@@ -533,7 +533,7 @@
 有	wəʔ
 用	loŋ
 我	ŋˤajʔ
-者	taʔ
+者	tiaʔ
 ，
 期	gə
 月	ŋwat
@@ -584,7 +584,7 @@
 如	na
 有	wəʔ
 王	waŋh
-者	taʔ
+者	tiaʔ
 ，
 必	pik
 世	l̥as
@@ -678,7 +678,7 @@
 而	nə
 可	kʰˤajʔ
 以	ləʔ
-興	hjəŋ
+興	j̊əŋ
 邦	pˤroŋ
 ，
 有	wəʔ
@@ -731,7 +731,7 @@
 一	ʔit
 言	ŋan
 而	nə
-興	hjəŋ
+興	j̊əŋ
 邦	pˤroŋ
 乎	gˤa
 ？
@@ -832,11 +832,11 @@
 ：
 「
 近	gənʔ
-者	taʔ
+者	tiaʔ
 説	lot
 ，
 遠	wanʔ
-者	taʔ
+者	tiaʔ
 來	C.rˤə
 。
 」
@@ -894,7 +894,7 @@
 有	wəʔ
 直	drək
 躬	kuŋ
-者	taʔ
+者	tiaʔ
 ，
 其	gə
 父	baʔ
@@ -916,7 +916,7 @@
 黨	tˤaŋʔ
 之	tə
 直	drək
-者	taʔ
+者	tiaʔ
 異	jəh
 於	ʔa
 是	deʔ
@@ -1005,7 +1005,7 @@
 不	pə
 辱	nok
 君	kun
-命	mreŋ
+命	mriŋ
 ；
 可	kʰˤajʔ
 謂	wəs
@@ -1021,7 +1021,7 @@
 敢	kˤamʔ
 問	munh
 其	gə
-次	tsʰis
+次	tsʰih
 。
 」
 曰	wat
@@ -1036,7 +1036,7 @@
 鄉	haŋ
 黨	tˤaŋʔ
 稱	tʰəŋ
-弟	lˤəjh
+弟	lˤih
 焉	ʔan
 。
 」
@@ -1046,7 +1046,7 @@
 敢	kˤamʔ
 問	munh
 其	gə
-次	tsʰis
+次	tsʰih
 。
 」
 曰	wat
@@ -1073,7 +1073,7 @@
 可	kʰˤajʔ
 以	ləʔ
 爲	waj
-次	tsʰis
+次	tsʰih
 矣	ʔəʔ
 。
 」
@@ -1084,7 +1084,7 @@
 之	tə
 從	dzoŋ
 政	teŋh
-者	taʔ
+者	tiaʔ
 何	gˤaj
 如	na
 ？
@@ -1125,12 +1125,12 @@
 乎	gˤa
 ：
 狂	gwaŋ
-者	taʔ
+者	tiaʔ
 進	tsiŋ
 取	tsʰoʔ
 ，
 狷	kwenh
-者	taʔ
+者	tiaʔ
 有	wəʔ
 所	ŋ̊raʔ
 不	pə
@@ -1257,14 +1257,14 @@
 人	niŋ
 之	tə
 善	danʔ
-者	taʔ
+者	tiaʔ
 好	n̥ˤuh
 之	tə
 ，
 其	gə
 不	pə
 善	danʔ
-者	taʔ
+者	tiaʔ
 惡	ʔˤah
 之	tə
 。

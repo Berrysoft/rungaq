@@ -99,7 +99,7 @@
 有	wəʔ
 顔	ŋˤran
 回	wˤəj
-者	taʔ
+者	tiaʔ
 ，
 好	n̥ˤuh
 學	gˤruk
@@ -115,7 +115,7 @@
 不	pə
 幸	gˤreŋʔ
 短	tˤorʔ
-命	mreŋh
+命	mriŋh
 死	sliʔ
 矣	ʔəʔ
 ！
@@ -128,7 +128,7 @@
 聞	mun
 好	n̥ˤuh
 學	gˤruk
-者	taʔ
+者	tiaʔ
 也	lajʔ
 。
 」
@@ -200,7 +200,7 @@
 君	kun
 子	tsəʔ
 周	tiw
-急	kəp
+急	krəp
 不	pə
 繼	kˤeh
 富	pəh
@@ -259,7 +259,7 @@
 山	sran
 川	j̊un
 其	gə
-舍	l̥aʔ
+舍	l̥iaʔ
 諸	ta
 ？
 」
@@ -298,20 +298,20 @@
 ：
 「
 仲	druŋh
-由	liw
+由	lu
 可	kʰˤajʔ
 使	srəʔ
 從	dzoŋ
 政	teŋh
 也	lajʔ
-與	ja
+與	jaʔ
 ？
 」
 子	tsəʔ
 曰	wat
 ：
 「
-由	liw
+由	lu
 也	lajʔ
 果	kˤojʔ
 ，
@@ -333,7 +333,7 @@
 從	dzoŋ
 政	teŋh
 也	lajʔ
-與	ja
+與	jaʔ
 ？
 」
 曰	wat
@@ -361,7 +361,7 @@
 從	dzoŋ
 政	teŋh
 也	lajʔ
-與	ja
+與	jaʔ
 ？
 」
 曰	wat
@@ -405,7 +405,7 @@
 有	wəʔ
 復	buh
 我	ŋˤajʔ
-者	taʔ
+者	tiaʔ
 ，
 則	tsˤək
 吾	ŋˤa
@@ -437,7 +437,7 @@
 亡	maŋ
 之	tə
 ，
-命	mreŋ
+命	mriŋ
 矣	ʔəʔ
 夫	ba
 ！
@@ -525,7 +525,7 @@
 力	C.rək
 不	pə
 足	tsok
-者	taʔ
+者	tiaʔ
 ，
 中	truŋ
 道	lˤuʔ
@@ -584,11 +584,11 @@
 臺	dˤə
 滅	met
 明	mraŋ
-者	taʔ
+者	tiaʔ
 ，
 行	gˤraŋ
 不	pə
-由	liw
+由	lu
 徑	kˤeŋh
 ；
 非	pəj
@@ -678,12 +678,12 @@
 能	nˤə
 出	tʰut
 不	pə
-由	liw
+由	lu
 户	gwˤaʔ
 ？
 何	gˤaj
 莫	mˤak
-由	liw
+由	lu
 斯	se
 道	lˤuʔ
 也	lajʔ
@@ -697,7 +697,7 @@
 勝	l̥əŋh
 文	mən
 則	tsˤək
-野	laʔ
+野	liaʔ
 ，
 文	mən
 勝	l̥əŋh
@@ -741,21 +741,21 @@
 「
 知	tre
 之	tə
-者	taʔ
+者	tiaʔ
 不	pə
 如	na
 好	n̥ˤuh
 之	tə
-者	taʔ
+者	tiaʔ
 ，
 好	n̥ˤuh
 之	tə
-者	taʔ
+者	tiaʔ
 不	pə
 如	na
 樂	rˤawh
 之	tə
-者	taʔ
+者	tiaʔ
 。
 」
 子	tsəʔ
@@ -820,7 +820,7 @@
 ：
 「
 仁	niŋ
-者	taʔ
+者	tiaʔ
 先	sˤən
 難	nˤar
 而	nə
@@ -838,29 +838,29 @@
 ：
 「
 知	treh
-者	taʔ
+者	tiaʔ
 樂	rˤawh
 水	stujʔ
 ，
 仁	niŋ
-者	taʔ
+者	tiaʔ
 樂	rˤawh
 山	sran
 。
 知	treh
-者	taʔ
+者	tiaʔ
 動	dˤoŋʔ
 ，
 仁	niŋ
-者	taʔ
+者	tiaʔ
 静	dzeŋh
 。
 知	treh
-者	taʔ
+者	tiaʔ
 樂	rˤawk
 ，
 仁	niŋ
-者	taʔ
+者	tiaʔ
 壽	duʔ
 。
 」
@@ -907,7 +907,7 @@
 ：
 「
 仁	niŋ
-者	taʔ
+者	tiaʔ
 雖	ẘi
 告	kˤuk
 之	tə
@@ -977,7 +977,7 @@
 可	kʰˤajʔ
 以	ləʔ
 弗	pət
-畔	pʰˤanh
+畔	bˤanh
 矣	ʔəʔ
 夫	ba
 ！
@@ -1002,7 +1002,7 @@
 予	laʔ
 所	ŋ̊raʔ
 否	pəʔ
-者	taʔ
+者	tiaʔ
 ，
 天	l̥ˤiŋ
 厭	ʔemh
@@ -1076,7 +1076,7 @@
 乎	gˤa
 ？
 堯	ŋˤew
-舜	l̥unh
+舜	stunh
 其	gə
 猶	ju
 病	braŋh
@@ -1084,7 +1084,7 @@
 ！
 夫	ba
 仁	niŋ
-者	taʔ
+者	tiaʔ
 ，
 己	kəʔ
 欲	jok

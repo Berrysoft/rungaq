@@ -36,11 +36,11 @@
 ，
 爲	waj
 仁	niŋ
-由	liw
+由	lu
 己	kəʔ
 ，
 而	nə
-由	liw
+由	lu
 人	niŋ
 乎	gˤa
 哉	tsˤə
@@ -175,7 +175,7 @@
 ：
 「
 仁	niŋ
-者	taʔ
+者	tiaʔ
 ，
 其	gə
 言	ŋan
@@ -305,7 +305,7 @@
 死	sliʔ
 生	sreŋ
 有	wəʔ
-命	mreŋ
+命	mriŋ
 ，
 富	pəh
 貴	kus
@@ -440,7 +440,7 @@
 於	ʔa
 斯	se
 三	sˤum
-者	taʔ
+者	tiaʔ
 何	gˤaj
 先	sˤən
 ？
@@ -467,7 +467,7 @@
 於	ʔa
 斯	se
 二	nis
-者	taʔ
+者	tiaʔ
 何	gˤaj
 先	sˤən
 ？
@@ -768,12 +768,12 @@
 以	ləʔ
 折	det
 獄	ŋrok
-者	taʔ
+者	tiaʔ
 ，
 其	gə
-由	liw
+由	lu
 也	lajʔ
-與	ja
+與	jaʔ
 ！
 」
 子	tsəʔ
@@ -842,7 +842,7 @@
 可	kʰˤajʔ
 以	ləʔ
 弗	pət
-畔	pʰˤanh
+畔	bˤanh
 矣	ʔəʔ
 夫	ba
 ！
@@ -890,7 +890,7 @@
 『
 政	teŋh
 』
-者	taʔ
+者	tiaʔ
 ，
 正	teŋ
 也	lajʔ
@@ -1038,7 +1038,7 @@
 『
 達	lˤat
 』
-者	taʔ
+者	tiaʔ
 ？
 」
 子	tsəʔ
@@ -1079,7 +1079,7 @@
 達	lˤat
 』
 也	lajʔ
-者	taʔ
+者	tiaʔ
 ，
 質	tik
 直	drək
@@ -1090,10 +1090,10 @@
 察	tsʰˤres
 言	ŋan
 而	nə
-觀	kwˤan
+觀	kˤon
 色	ŋ̊rək
 ，
-慮	ra
+慮	C.ra
 以	ləʔ
 下	gˤraʔ
 人	niŋ
@@ -1113,7 +1113,7 @@
 聞	mun
 』
 也	lajʔ
-者	taʔ
+者	tiaʔ
 ：
 色	ŋ̊rək
 取	tsʰoʔ
@@ -1180,7 +1180,7 @@
 崇	dzruŋ
 德	tˤək
 』
-與	ja
+與	jaʔ
 ？
 攻	kˤoŋ
 其	gə
@@ -1197,7 +1197,7 @@
 脩	sliw
 慝	n̥ˤək
 』
-與	ja
+與	jaʔ
 ？
 一	ʔit
 朝	traw
@@ -1216,7 +1216,7 @@
 『
 惑	wˤək
 』
-與	ja
+與	jaʔ
 ？
 」
 樊	ban
@@ -1260,12 +1260,12 @@
 直	drək
 錯	tsʰˤah
 諸	ta
-枉	ʔwaŋʔ
+枉	ʔwaŋ
 ，
 能	nˤə
 使	srəʔ
-枉	ʔwaŋʔ
-者	taʔ
+枉	ʔwaŋ
+者	tiaʔ
 直	drək
 。
 」
@@ -1300,12 +1300,12 @@
 直	drək
 錯	tsʰˤah
 諸	ta
-枉	ʔwaŋʔ
+枉	ʔwaŋ
 ，
 能	nˤə
 使	srəʔ
-枉	ʔwaŋʔ
-者	taʔ
+枉	ʔwaŋ
+者	tiaʔ
 直	drək
 』
 ，
@@ -1324,7 +1324,7 @@
 言	ŋan
 乎	gˤa
 ！
-舜	l̥unh
+舜	stunh
 有	wəʔ
 天	l̥ˤiŋ
 下	gˤraʔ
@@ -1339,7 +1339,7 @@
 ，
 不	pə
 仁	niŋ
-者	taʔ
+者	tiaʔ
 遠	wanh
 矣	ʔəʔ
 。
@@ -1358,7 +1358,7 @@
 ，
 不	pə
 仁	niŋ
-者	taʔ
+者	tiaʔ
 遠	wanh
 矣	ʔəʔ
 。

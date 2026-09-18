@@ -52,12 +52,12 @@
 糧	raŋ
 。
 從	dzoŋ
-者	taʔ
+者	tiaʔ
 病	braŋh
 ，
 莫	mˤak
 能	nˤə
-興	hjəŋ
+興	j̊əŋ
 。
 子	tsəʔ
 路	C.rˤah
@@ -107,8 +107,8 @@
 而	nə
 識	stək
 之	tə
-者	taʔ
-與	ja
+者	tiaʔ
+與	jaʔ
 ？
 」
 對	tˤəps
@@ -118,7 +118,7 @@
 然	nan
 ，
 非	pəj
-與	ja
+與	jaʔ
 ？
 」
 曰	wat
@@ -138,11 +138,11 @@
 曰	wat
 ：
 「
-由	liw
+由	lu
 ，
 知	tre
 德	tˤək
-者	taʔ
+者	tiaʔ
 鮮	sanʔ
 矣	ʔəʔ
 ！
@@ -155,12 +155,12 @@
 爲	waj
 而	nə
 治	lrəh
-者	taʔ
+者	tiaʔ
 ，
 其	gə
-舜	l̥unh
+舜	stunh
 也	lajʔ
-與	ja
+與	jaʔ
 ！
 夫	ba
 何	gˤaj
@@ -332,7 +332,7 @@
 言	ŋan
 。
 知	treh
-者	taʔ
+者	tiaʔ
 不	pə
 失	l̥ik
 人	niŋ
@@ -400,14 +400,14 @@
 夫	pa
 之	tə
 賢	gˤin
-者	taʔ
+者	tiaʔ
 ，
 友	wəʔ
 其	gə
 士	dzrəʔ
 之	tə
 仁	niŋ
-者	taʔ
+者	tiaʔ
 。
 」
 顔	ŋˤran
@@ -469,7 +469,7 @@
 人	niŋ
 無	ma
 遠	wanʔ
-慮	rah
+慮	C.rah
 ，
 必	pik
 有	wəʔ
@@ -493,7 +493,7 @@
 如	na
 好	n̥ˤuh
 色	ŋ̊rək
-者	taʔ
+者	tiaʔ
 也	lajʔ
 ！
 」
@@ -507,8 +507,8 @@
 其	gə
 竊	tsʰˤet
 位	wrəps
-者	taʔ
-與	ja
+者	tiaʔ
+與	jaʔ
 ！
 知	tre
 柳	ruʔ
@@ -558,7 +558,7 @@
 之	tə
 何	gˤaj
 』
-者	taʔ
+者	tiaʔ
 ，
 吾	ŋˤa
 末	mˤat
@@ -731,7 +731,7 @@
 身	l̥iŋ
 行	gˤraŋ
 之	tə
-者	taʔ
+者	tiaʔ
 乎	gˤa
 ？
 」
@@ -773,7 +773,7 @@
 有	wəʔ
 所	ŋ̊raʔ
 譽	ja
-者	taʔ
+者	tiaʔ
 ，
 其	gə
 有	wəʔ
@@ -812,9 +812,9 @@
 ，
 有	wəʔ
 馬	mˤraʔ
-者	taʔ
+者	tiaʔ
 ，
-借	tsah
+借	tsiah
 人	niŋ
 乘	mləŋ
 之	tə
@@ -907,7 +907,7 @@
 食	mlək
 ，
 終	tuŋ
-夜	jah
+夜	jiah
 不	pə
 寑	tsʰimʔ
 ，
@@ -1070,7 +1070,7 @@
 仁	niŋ
 也	lajʔ
 ，
-甚	dumʔ
+甚	dəmʔ
 於	ʔa
 水	stujʔ
 火	m̥ˤəjʔ
@@ -1083,7 +1083,7 @@
 蹈	lˤuʔ
 而	nə
 死	sliʔ
-者	taʔ
+者	tiaʔ
 矣	ʔəʔ
 ，
 未	məs
@@ -1092,7 +1092,7 @@
 仁	niŋ
 而	nə
 死	sliʔ
-者	taʔ
+者	tiaʔ
 也	lajʔ
 。
 」
@@ -1178,13 +1178,13 @@
 見	gˤenh
 。
 及	grəp
-階	kˤri
+階	kˤrəj
 ，
 子	tsəʔ
 曰	wat
 ：
 「
-階	kˤri
+階	kˤrəj
 也	lajʔ
 。
 」
@@ -1232,7 +1232,7 @@
 言	ŋan
 之	tə
 道	lˤuʔ
-與	ja
+與	jaʔ
 ？
 」
 子	tsəʔ

@@ -13,7 +13,7 @@ CHINESE_PUNCTUATION = "、，。？！；：「」『』（）《》〈〉【】
 
 T2NEW = opencc.OpenCC("t2gov/t2gov/t2new.json")
 T2GOV = opencc.OpenCC("t2gov/t2gov/t2gov.json")
-ZH_DICT = pd.read_excel("dict.xlsx", sheet_name="字典表")
+ZH_DICT = pd.read_excel("dict.xlsx", sheet_name="字典表", keep_default_na=False)
 
 
 def parse_args() -> argparse.Namespace:
@@ -59,13 +59,23 @@ class QueryResult:
     pron: str | None = None
 
 
+ZH_CHARS_NEW = ZH_DICT["字"].map(T2NEW.convert)
+ZH_CHARS_GOV = ZH_DICT["字"].map(T2GOV.convert)
+
+
+def is_blank(value) -> bool:
+    return value is None or pd.isna(value) or str(value).strip() == ""
+
+
 def lookup(character: str) -> pd.DataFrame:
-    char_new = T2NEW.convert(character)
-    char_gov = T2GOV.convert(character)
-    result = ZH_DICT.query(
-        "字 == @character or 字 == @char_new or 字 == @char_gov", inplace=False
+    variants = {character, T2NEW.convert(character), T2GOV.convert(character)}
+    mask = (
+        ZH_DICT["字"].isin(variants)
+        | ZH_CHARS_NEW.isin(variants)
+        | ZH_CHARS_GOV.isin(variants)
     )
-    return result[result["音"].notna()]
+    result = ZH_DICT[mask]
+    return result[~result["音"].isna() & (result["音"].astype(str).str.strip() != "")]
 
 
 def readings(result: pd.DataFrame) -> list[str]:
@@ -77,11 +87,11 @@ def print_entries(result: pd.DataFrame) -> None:
         row = result.iloc[i]
         print("{}) {} {}".format(i + 1, row["字"], row["音"]))
         explain = row["釋義"]
-        if not pd.isna(explain):
+        if not is_blank(explain):
             print(" 釋義:")
             print_explain(explain)
         explain = row["注釋"]
-        if not pd.isna(explain):
+        if not is_blank(explain):
             print(" 注釋:")
             print_explain(explain)
 
@@ -132,7 +142,7 @@ def recorded_pron(entry: str | None) -> str | None:
 
 
 def is_valid_reading(character: str, pron: str) -> bool:
-    return pron in readings(lookup(character))
+    return pron.strip() in [reading.strip() for reading in readings(lookup(character))]
 
 
 def ruby(character: str, pron: str) -> str:

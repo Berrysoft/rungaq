@@ -29,7 +29,7 @@
 」
 三	sˤum
 家	kˤra
-者	taʔ
+者	tiaʔ
 以	ləʔ
 《
 雍	ʔoŋ
@@ -103,7 +103,7 @@
 ，
 與	jaʔ
 其	gə
-奢	sta
+奢	stia
 也	lajʔ
 ，
 寧	nˤeŋ
@@ -157,7 +157,7 @@
 弗	pət
 能	nˤə
 救	ku
-與	ja
+與	jaʔ
 ？
 」
 對	tˤəps
@@ -198,7 +198,7 @@
 ，
 必	pik
 也	lajʔ
-射	mlah
+射	mliah
 乎	gˤa
 ！
 揖	ʔip
@@ -270,7 +270,7 @@
 「
 起	kʰəʔ
 予	laʔ
-者	taʔ
+者	tiaʔ
 商	staŋ
 也	lajʔ
 ，
@@ -341,15 +341,15 @@
 禘	dˤeh
 自	dzis
 既	kəs
-灌	kwˤanh
+灌	kˤonh
 而	nə
 往	waŋʔ
-者	taʔ
+者	tiaʔ
 ，
 吾	ŋˤa
 不	pə
 欲	jok
-觀	kwˤan
+觀	kˤon
 之	tə
 矣	ʔəʔ
 。
@@ -373,7 +373,7 @@
 知	tre
 其	gə
 説	l̥ot
-者	taʔ
+者	tiaʔ
 之	tə
 於	ʔa
 天	l̥ˤiŋ
@@ -527,7 +527,7 @@
 曰	wat
 ：
 「
-射	mlah
+射	mliah
 不	pə
 主	toʔ
 皮	baj
@@ -648,7 +648,7 @@
 哀	ʔˤəj
 公	kjoŋ
 問	munh
-社	daʔ
+社	diaʔ
 於	ʔa
 宰	tsˤəʔ
 我	ŋˤajʔ
@@ -778,7 +778,7 @@
 邦	pˤroŋ
 君	kun
 爲	waj
-兩	raŋʔ
+兩	C.raŋʔ
 君	kun
 之	tə
 好	n̥ˤuʔ
@@ -875,7 +875,7 @@
 。
 」
 從	dzoŋ
-者	taʔ
+者	tiaʔ
 見	gˤenh
 之	tə
 。
@@ -963,7 +963,7 @@
 吾	ŋˤa
 何	gˤaj
 以	ləʔ
-觀	kwˤan
+觀	kˤon
 之	tə
 哉	tsˤə
 ！

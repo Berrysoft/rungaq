@@ -70,7 +70,7 @@
 三	sˤum
 黜	tʰrut
 ？
-枉	ʔwaŋʔ
+枉	ʔwaŋ
 道	lˤuʔ
 而	nə
 事	dzrəh
@@ -176,13 +176,13 @@
 衰	sruj
 ？
 往	waŋʔ
-者	taʔ
+者	tiaʔ
 不	pə
 可	kʰˤajʔ
 諫	kˤranʔ
 ，
 來	C.rˤə
-者	taʔ
+者	tiaʔ
 猶	ju
 可	kʰˤajʔ
 追	truj
@@ -197,7 +197,7 @@
 之	tə
 從	dzoŋ
 政	teŋh
-者	taʔ
+者	tiaʔ
 殆	lˤəʔ
 而	nə
 ！
@@ -227,7 +227,7 @@
 、
 桀	grat
 溺	nˤewk
-耦	ŋˤoʔ
+耦	ŋˤroʔ
 而	nə
 耕	kˤreŋ
 。
@@ -251,7 +251,7 @@
 夫	ba
 執	tip
 輿	ja
-者	taʔ
+者	tiaʔ
 爲	waj
 誰	duj
 ？
@@ -273,7 +273,7 @@
 魯	rˤaʔ
 孔	kʰˤoŋʔ
 丘	kʰwə
-與	ja
+與	jaʔ
 ？
 」
 曰	wat
@@ -312,7 +312,7 @@
 「
 爲	waj
 仲	druŋh
-由	liw
+由	lu
 。
 」
 曰	wat
@@ -324,7 +324,7 @@
 丘	kʰwə
 之	tə
 徒	dˤa
-與	ja
+與	jaʔ
 ？
 」
 對	tˤəps
@@ -339,7 +339,7 @@
 「
 滔	l̥ˤu
 滔	l̥ˤu
-者	taʔ
+者	tiaʔ
 ，
 天	l̥ˤiŋ
 下	gˤraʔ
@@ -353,7 +353,7 @@
 易	lek
 之	tə
 ？
-且	tsʰaʔ
+且	tsʰiaʔ
 而	nə
 與	jaʔ
 其	gə
@@ -429,7 +429,7 @@
 而	nə
 後	gˤoh
 ，
-遇	ŋoh
+遇	ŋroh
 丈	draŋʔ
 人	niŋ
 ，
@@ -517,7 +517,7 @@
 ：
 「
 隱	ʔənʔ
-者	taʔ
+者	tiaʔ
 也	lajʔ
 。
 」
@@ -573,7 +573,7 @@
 而	nə
 亂	rˤonh
 大	lˤas
-倫	run
+倫	C.run
 。
 君	kun
 子	tsəʔ
@@ -640,7 +640,7 @@
 夷	ləj
 叔	stiwk
 齊	dzˤi
-與	ja
+與	jaʔ
 ！
 」
 謂	wəs
@@ -660,11 +660,11 @@
 。
 言	ŋan
 中	truŋh
-倫	run
+倫	C.run
 ，
 行	gˤraŋ
 中	truŋh
-慮	rah
+慮	C.rah
 ，
 其	gə
 斯	se
@@ -692,7 +692,7 @@
 ，
 廢	pas
 中	truŋh
-權	gwran
+權	gron
 。
 我	ŋˤajʔ
 則	tsˤək
@@ -817,7 +817,7 @@
 忽	m̥ˤət
 、
 叔	stiwk
-夜	jah
+夜	jiah
 、
 叔	stiwk
 夏	gˤraʔ

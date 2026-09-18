@@ -10,7 +10,7 @@
 咨	tsi
 ！
 爾	neʔ
-舜	l̥unh
+舜	stunh
 ！
 天	l̥ˤiŋ
 之	tə
@@ -36,10 +36,10 @@
 終	tuŋ
 。
 」
-舜	l̥unh
+舜	stunh
 亦	jak
 以	ləʔ
-命	mreŋh
+命	mriŋ
 禹	waʔ
 。
 曰	wat
@@ -48,7 +48,7 @@
 予	laʔ
 小	sewʔ
 子	tsəʔ
-履	C.riʔ
+履	riʔ
 ，
 敢	kˤamʔ
 用	loŋ
@@ -68,7 +68,7 @@
 罪	dzˤujʔ
 不	pə
 敢	kˤamʔ
-赦	jah
+赦	jiah
 。
 帝	tˤeh
 臣	gin
@@ -136,7 +136,7 @@
 。
 」
 謹	kənʔ
-權	gwran
+權	gron
 量	raŋh
 ，
 審	stumʔ
@@ -154,7 +154,7 @@
 行	gˤraŋ
 焉	ʔan
 。
-興	hjəŋ
+興	j̊əŋ
 滅	met
 國	kwˤək
 ，
@@ -428,7 +428,7 @@
 暴	bˤawh
 ；
 慢	mˤranh
-令	C.reŋh
+令	C.riŋh
 致	trih
 期	gə
 謂	wəs
@@ -457,7 +457,7 @@
 「
 不	pə
 知	tre
-命	mreŋ
+命	mriŋ
 ，
 無	ma
 以	ləʔ

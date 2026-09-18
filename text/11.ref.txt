@@ -13,7 +13,7 @@
 禮	rˤiʔ
 樂	ŋˤrawk
 ，
-野	laʔ
+野	liaʔ
 人	niŋ
 也	lajʔ
 ；
@@ -48,7 +48,7 @@
 陳	lrən
 、
 蔡	tsʰˤas
-者	taʔ
+者	tiaʔ
 ，
 皆	kˤriʔ
 不	pə
@@ -110,7 +110,7 @@
 非	pəj
 助	dzrah
 我	ŋˤajʔ
-者	taʔ
+者	tiaʔ
 也	lajʔ
 ！
 於	ʔa
@@ -188,14 +188,14 @@
 有	wəʔ
 顔	ŋˤran
 回	wˤəj
-者	taʔ
+者	tiaʔ
 好	n̥ˤuh
 學	gˤruk
 ，
 不	pə
 幸	gˤreŋʔ
 短	tˤorʔ
-命	mreŋh
+命	mriŋh
 死	sliʔ
 矣	ʔəʔ
 。
@@ -214,7 +214,7 @@
 請	tsʰeŋʔ
 子	tsəʔ
 之	tə
-車	j̊a
+車	j̊ia
 以	ləʔ
 爲	waj
 之	tə
@@ -298,7 +298,7 @@
 慟	dˤoŋh
 。
 從	dzoŋ
-者	taʔ
+者	tiaʔ
 曰	wat
 ：
 「
@@ -455,7 +455,7 @@
 。
 「
 若	nak
-由	liw
+由	lu
 也	lajʔ
 ，
 不	pə
@@ -510,7 +510,7 @@
 曰	wat
 ：
 「
-由	liw
+由	lu
 之	tə
 瑟	srik
 ，
@@ -533,7 +533,7 @@
 曰	wat
 ：
 「
-由	liw
+由	lu
 也	lajʔ
 升	stəŋ
 堂	dˤaŋ
@@ -580,7 +580,7 @@
 則	tsˤək
 師	sri
 愈	loʔ
-與	ja
+與	jaʔ
 ？
 」
 子	tsəʔ
@@ -645,7 +645,7 @@
 也	lajʔ
 辟	bek
 ，
-由	liw
+由	lu
 也	lajʔ
 喭	ŋˤarh
 。
@@ -665,10 +665,10 @@
 賜	sleh
 不	pə
 受	duʔ
-命	mreŋ
+命	mriŋ
 ，
 而	nə
-貨	ẘˤaj
+貨	ẘˤajh
 殖	dək
 焉	ʔan
 ；
@@ -714,12 +714,12 @@
 ，
 君	kun
 子	tsəʔ
-者	taʔ
+者	tiaʔ
 乎	gˤa
 ？
 色	ŋ̊rək
 莊	tsraŋ
-者	taʔ
+者	tiaʔ
 乎	gˤa
 ？
 」
@@ -780,7 +780,7 @@
 曰	wat
 ：
 「
-由	liw
+由	lu
 也	lajʔ
 問	munh
 ：
@@ -842,7 +842,7 @@
 進	tsiŋ
 之	tə
 ；
-由	liw
+由	lu
 也	lajʔ
 兼	kˤem
 人	niŋ
@@ -892,7 +892,7 @@
 ：
 「
 仲	druŋh
-由	liw
+由	lu
 、
 冉	namʔ
 求	gu
@@ -900,7 +900,7 @@
 謂	wəs
 大	lˤas
 臣	gin
-與	ja
+與	jaʔ
 ？
 」
 子	tsəʔ
@@ -916,7 +916,7 @@
 問	munh
 ，
 曾	tsˤəŋ
-由	liw
+由	lu
 與	jaʔ
 求	gu
 之	tə
@@ -926,7 +926,7 @@
 謂	wəs
 大	lˤas
 臣	gin
-者	taʔ
+者	tiaʔ
 ，
 以	ləʔ
 道	lˤuʔ
@@ -939,7 +939,7 @@
 止	təʔ
 。
 今	kum
-由	liw
+由	lu
 與	jaʔ
 求	gu
 也	lajʔ
@@ -958,8 +958,8 @@
 則	tsˤək
 從	dzoŋ
 之	tə
-者	taʔ
-與	ja
+者	tiaʔ
+與	jaʔ
 ？
 」
 子	tsəʔ
@@ -1008,7 +1008,7 @@
 焉	ʔan
 ，
 有	wəʔ
-社	daʔ
+社	diaʔ
 稷	tsək
 焉	ʔan
 ；
@@ -1032,7 +1032,7 @@
 惡	ʔˤah
 夫	ba
 佞	nˤiŋ
-者	taʔ
+者	tiaʔ
 。
 」
 子	tsəʔ
@@ -1122,7 +1122,7 @@
 饑	kəj
 饉	grənh
 ，
-由	liw
+由	lu
 也	lajʔ
 爲	waj
 之	tə
@@ -1137,7 +1137,7 @@
 有	wəʔ
 勇	loŋʔ
 ，
-且	tsʰaʔ
+且	tsʰiaʔ
 知	tre
 方	paŋ
 也	lajʔ
@@ -1252,7 +1252,7 @@
 鏗	kʰˤrin
 爾	neʔ
 ，
-舍	l̥aʔ
+舍	l̥iaʔ
 瑟	srik
 而	nə
 作	tsˤak
@@ -1265,7 +1265,7 @@
 乎	gˤa
 三	sˤum
 子	tsəʔ
-者	taʔ
+者	tiaʔ
 之	tə
 撰	dzronʔ
 。
@@ -1291,7 +1291,7 @@
 「
 莫	mˤah
 春	tʰun
-者	taʔ
+者	tiaʔ
 ，
 春	tʰun
 服	bək
@@ -1299,7 +1299,7 @@
 成	deŋ
 。
 冠	kˤonh
-者	taʔ
+者	tiaʔ
 五	ŋˤaʔ
 六	C.ruk
 人	niŋ
@@ -1340,7 +1340,7 @@
 」
 三	sˤum
 子	tsəʔ
-者	taʔ
+者	tiaʔ
 出	tʰut
 ，
 曾	tsˤəŋ
@@ -1355,7 +1355,7 @@
 夫	ba
 三	sˤum
 子	tsəʔ
-者	taʔ
+者	tiaʔ
 之	tə
 言	ŋan
 何	gˤaj
@@ -1383,7 +1383,7 @@
 子	tsəʔ
 何	gˤaj
 哂	l̥ənʔ
-由	liw
+由	lu
 也	lajʔ
 ？
 」
@@ -1413,7 +1413,7 @@
 非	pəj
 邦	pˤroŋ
 也	lajʔ
-與	ja
+與	jaʔ
 ？
 」
 「
@@ -1433,7 +1433,7 @@
 非	pəj
 邦	pˤroŋ
 也	lajʔ
-者	taʔ
+者	tiaʔ
 ？
 」
 「
@@ -1443,7 +1443,7 @@
 非	pəj
 邦	pˤroŋ
 也	lajʔ
-與	ja
+與	jaʔ
 ？
 」
 「

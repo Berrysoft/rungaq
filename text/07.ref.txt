@@ -101,7 +101,7 @@
 曰	wat
 ：
 「
-甚	dumʔ
+甚	dəmʔ
 矣	ʔəʔ
 ，
 吾	ŋˤa
@@ -195,7 +195,7 @@
 於	ʔa
 有	wəʔ
 喪	sˤaŋ
-者	taʔ
+者	tiaʔ
 之	tə
 側	tsrək
 ，
@@ -226,7 +226,7 @@
 則	tsˤək
 行	gˤraŋ
 ，
-舍	l̥aʔ
+舍	l̥iaʔ
 之	tə
 則	tsˤək
 藏	dzˤaŋ
@@ -268,7 +268,7 @@
 而	nə
 無	ma
 悔	m̥ˤəh
-者	taʔ
+者	tiaʔ
 ，
 吾	ŋˤa
 不	pə
@@ -286,7 +286,7 @@
 謀	mə
 而	nə
 成	deŋ
-者	taʔ
+者	tiaʔ
 也	lajʔ
 。
 」
@@ -459,7 +459,7 @@
 曲	kʰrok
 肱	kwˤəŋ
 而	nə
-枕	təmh
+枕	tumh
 之	tə
 ，
 樂	rˤawk
@@ -473,7 +473,7 @@
 義	ŋajh
 而	nə
 富	pəh
-且	tsʰaʔ
+且	tsʰiaʔ
 貴	kus
 ，
 於	ʔa
@@ -587,7 +587,7 @@
 而	nə
 知	tre
 之	tə
-者	taʔ
+者	tiaʔ
 ，
 好	n̥ˤuh
 古	kˤaʔ
@@ -596,7 +596,7 @@
 以	ləʔ
 求	gu
 之	tə
-者	taʔ
+者	tiaʔ
 也	lajʔ
 。
 」
@@ -629,7 +629,7 @@
 擇	lˤrak
 其	gə
 善	danʔ
-者	taʔ
+者	tiaʔ
 而	nə
 從	dzoŋ
 之	tə
@@ -637,7 +637,7 @@
 其	gə
 不	pə
 善	danʔ
-者	taʔ
+者	tiaʔ
 而	nə
 改	kjəʔ
 之	tə
@@ -689,7 +689,7 @@
 二	nis
 三	sˤum
 子	tsəʔ
-者	taʔ
+者	tiaʔ
 ，
 是	deʔ
 丘	kʰwə
@@ -728,7 +728,7 @@
 見	kˤenh
 君	kun
 子	tsəʔ
-者	taʔ
+者	tiaʔ
 ，
 斯	se
 可	kʰˤajʔ
@@ -754,7 +754,7 @@
 見	kˤenh
 有	wəʔ
 恒	gˤəŋ
-者	taʔ
+者	tiaʔ
 ，
 斯	se
 可	kʰˤajʔ
@@ -805,7 +805,7 @@
 而	nə
 作	tsˤak
 之	tə
-者	taʔ
+者	tiaʔ
 ，
 我	ŋˤajʔ
 無	ma
@@ -818,7 +818,7 @@
 擇	lˤrak
 其	gə
 善	danʔ
-者	taʔ
+者	tiaʔ
 而	nə
 從	dzoŋ
 之	tə
@@ -831,7 +831,7 @@
 ，
 知	tre
 之	tə
-次	tsʰis
+次	tsʰih
 也	lajʔ
 。
 」
@@ -866,7 +866,7 @@
 。
 唯	wi
 何	gˤaj
-甚	dumʔ
+甚	dəmʔ
 ？
 人	niŋ
 潔	kˤet
@@ -1152,7 +1152,7 @@
 曰	wat
 ：
 「
-奢	sta
+奢	stia
 則	tsˤək
 不	pə
 孫	sˤunh

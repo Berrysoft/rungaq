@@ -44,7 +44,7 @@
 曰	wat
 思	səh
 無	ma
-邪	sja
+邪	sjia
 。
 」
 子	tsəʔ
@@ -79,7 +79,7 @@
 ，
 有	wəʔ
 恥	n̥rəʔ
-且	tsʰaʔ
+且	tsʰiaʔ
 格	kˤrak
 。
 」
@@ -89,7 +89,7 @@
 「
 吾	ŋˤa
 十	gip
-有	wəh
+有	wəʔ
 五	ŋˤaʔ
 而	nə
 志	tə
@@ -112,7 +112,7 @@
 而	nə
 知	tre
 天	l̥ˤiŋ
-命	mreŋ
+命	mriŋ
 ；
 六	C.ruk
 十	gip
@@ -239,7 +239,7 @@
 今	kum
 之	tə
 孝	hˤruh
-者	taʔ
+者	tiaʔ
 ，
 是	deʔ
 謂	wəs
@@ -345,10 +345,10 @@
 所	ŋ̊raʔ
 以	ləʔ
 ，
-觀	kwˤan
+觀	kˤon
 其	gə
 所	ŋ̊raʔ
-由	liw
+由	lu
 ，
 察	tsʰˤres
 其	gə
@@ -471,7 +471,7 @@
 曰	wat
 ：
 「
-由	liw
+由	lu
 ，
 誨	m̥ˤəh
 女	naʔ
@@ -572,14 +572,14 @@
 直	drək
 錯	tsʰˤah
 諸	ta
-枉	ʔwaŋʔ
+枉	ʔwaŋ
 ，
 則	tsˤək
 民	min
 服	bək
 ；
 舉	kjaʔ
-枉	ʔwaŋʔ
+枉	ʔwaŋ
 錯	tsʰˤah
 諸	ta
 直	drək
@@ -601,7 +601,7 @@
 敬	kreŋh
 忠	truŋ
 以	ləʔ
-勸	kʰwanh
+勸	kʰonh
 ，
 如	na
 之	tə
@@ -634,7 +634,7 @@
 能	nˤə
 ，
 則	tsˤək
-勸	kʰwanh
+勸	kʰonh
 。
 」
 或	wˤək
@@ -705,12 +705,12 @@
 也	lajʔ
 。
 大	lˤas
-車	j̊a
+車	j̊ia
 無	ma
 輗	ŋˤe
 ，
 小	sewʔ
-車	j̊a
+車	j̊ia
 無	ma
 軏	ŋot
 ，
@@ -768,7 +768,7 @@
 或	wˤək
 繼	kˤeh
 周	tiw
-者	taʔ
+者	tiaʔ
 ，
 雖	ẘi
 百	pˤrak

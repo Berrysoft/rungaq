@@ -72,7 +72,7 @@
 ，
 則	tsˤək
 民	min
-興	hjəŋ
+興	j̊əŋ
 於	ʔa
 仁	niŋ
 。
@@ -122,7 +122,7 @@
 淵	ʔwˤiŋ
 ，
 如	na
-履	C.riʔ
+履	riʔ
 薄	bˤak
 冰	prəŋ
 。
@@ -184,7 +184,7 @@
 貴	kus
 乎	gˤa
 道	lˤuʔ
-者	taʔ
+者	tiaʔ
 三	sˤum
 ：
 動	dˤoŋʔ
@@ -259,7 +259,7 @@
 校	kˤrewh
 。
 昔	sak
-者	taʔ
+者	tiaʔ
 吾	ŋˤa
 友	wəʔ
 ，
@@ -290,7 +290,7 @@
 百	pˤrak
 里	rəʔ
 之	tə
-命	mreŋ
+命	mriŋ
 ，
 臨	C.rum
 大	lˤas
@@ -304,7 +304,7 @@
 君	kun
 子	tsəʔ
 人	niŋ
-與	ja
+與	jaʔ
 ？
 君	kun
 子	tsəʔ
@@ -357,7 +357,7 @@
 曰	wat
 ：
 「
-興	hjəŋ
+興	j̊əŋ
 於	ʔa
 詩	stə
 ，
@@ -377,7 +377,7 @@
 民	min
 可	kʰˤajʔ
 使	srəʔ
-由	liw
+由	lu
 之	tə
 ，
 不	pə
@@ -407,7 +407,7 @@
 疾	dzik
 之	tə
 已	jəʔ
-甚	dumʔ
+甚	dəmʔ
 ，
 亂	rˤonh
 也	lajʔ
@@ -428,14 +428,14 @@
 ，
 使	srəʔ
 驕	kaw
-且	tsʰaʔ
+且	tsʰiaʔ
 吝	C.rənh
 ，
 其	gə
 餘	la
 不	pə
 足	tsok
-觀	kwˤan
+觀	kˤon
 也	lajʔ
 已	jəʔ
 ！
@@ -500,7 +500,7 @@
 道	lˤuʔ
 ，
 貧	brən
-且	tsʰaʔ
+且	tsʰiaʔ
 賤	dzanh
 焉	ʔan
 ，
@@ -512,7 +512,7 @@
 道	lˤuʔ
 ，
 富	pəh
-且	tsʰaʔ
+且	tsʰiaʔ
 貴	kus
 焉	ʔan
 ，
@@ -609,7 +609,7 @@
 巍	ŋuj
 乎	gˤa
 ，
-舜	l̥unh
+舜	stunh
 、
 禹	waʔ
 之	tə
@@ -680,7 +680,7 @@
 章	taŋ
 ！
 」
-舜	l̥unh
+舜	stunh
 有	wəʔ
 臣	gin
 五	ŋˤaʔ

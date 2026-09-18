@@ -7,7 +7,7 @@
 言	ŋan
 利	ris
 與	jaʔ
-命	mreŋ
+命	mriŋ
 與	jaʔ
 仁	niŋ
 。
@@ -52,7 +52,7 @@
 乎	gˤa
 ？
 執	tip
-射	mlah
+射	mliah
 乎	gˤa
 ？
 吾	ŋˤa
@@ -149,7 +149,7 @@
 ，
 後	gˤoʔ
 死	sliʔ
-者	taʔ
+者	tiaʔ
 不	pə
 得	tˤək
 與	jaʔ
@@ -186,8 +186,8 @@
 夫	pa
 子	tsəʔ
 聖	l̥eŋh
-者	taʔ
-與	ja
+者	tiaʔ
+與	jaʔ
 ？
 何	gˤaj
 其	gə
@@ -294,7 +294,7 @@
 我	ŋˤajʔ
 扣	kʰˤoʔ
 其	gə
-兩	raŋʔ
+兩	C.raŋʔ
 端	tˤor
 而	nə
 竭	grat
@@ -325,15 +325,15 @@
 見	kˤenh
 齊	tsi
 衰	tsʰˤuj
-者	taʔ
+者	tiaʔ
 、
 冕	mranʔ
 衣	ʔəj
 裳	daŋ
-者	taʔ
+者	tiaʔ
 與	jaʔ
 瞽	kwˤaʔ
-者	taʔ
+者	tiaʔ
 ，
 見	kˤenh
 之	tə
@@ -420,7 +420,7 @@
 之	tə
 ，
 末	mˤat
-由	liw
+由	lu
 也	lajʔ
 已	jəʔ
 ！
@@ -447,7 +447,7 @@
 矣	ʔəʔ
 哉	tsˤə
 ，
-由	liw
+由	lu
 之	tə
 行	gˤraŋ
 詐	tsˤrah
@@ -468,7 +468,7 @@
 天	l̥ˤiŋ
 乎	gˤa
 ？
-且	tsʰaʔ
+且	tsʰiaʔ
 予	laʔ
 與	jaʔ
 其	gə
@@ -490,7 +490,7 @@
 手	l̥uʔ
 乎	gˤa
 ！
-且	tsʰaʔ
+且	tsʰiaʔ
 予	laʔ
 縱	tsoŋh
 不	pə
@@ -546,7 +546,7 @@
 我	ŋˤajʔ
 待	dˤəʔ
 賈	kˤaʔ
-者	taʔ
+者	tiaʔ
 也	lajʔ
 ！
 」
@@ -648,15 +648,15 @@
 ：
 「
 逝	das
-者	taʔ
+者	tiaʔ
 如	na
 斯	se
 夫	ba
 ！
 不	pə
-舍	l̥aʔ
+舍	l̥iaʔ
 晝	tˤroh
-夜	jah
+夜	jiah
 。
 」
 子	tsəʔ
@@ -671,7 +671,7 @@
 如	na
 好	n̥ˤuh
 色	ŋ̊rək
-者	taʔ
+者	tiaʔ
 也	lajʔ
 。
 」
@@ -698,7 +698,7 @@
 譬	pʰeh
 如	na
 平	breŋ
-地	lˤaj
+地	lˤajh
 ，
 雖	ẘi
 覆	pʰuk
@@ -721,12 +721,12 @@
 而	nə
 不	pə
 惰	lˤojʔ
-者	taʔ
+者	tiaʔ
 ，
 其	gə
 回	wˤəj
 也	lajʔ
-與	ja
+與	jaʔ
 ！
 」
 子	tsəʔ
@@ -760,7 +760,7 @@
 而	nə
 不	pə
 秀	luʔ
-者	taʔ
+者	tiaʔ
 有	wəʔ
 矣	ʔəʔ
 夫	ba
@@ -769,7 +769,7 @@
 而	nə
 不	pə
 實	dik
-者	taʔ
+者	tiaʔ
 有	wəʔ
 矣	ʔəʔ
 夫	ba
@@ -787,7 +787,7 @@
 焉	ʔan
 知	tre
 來	C.rˤə
-者	taʔ
+者	tiaʔ
 之	tə
 不	pə
 如	na
@@ -880,7 +880,7 @@
 不	pə
 如	na
 己	kəʔ
-者	taʔ
+者	tiaʔ
 ，
 過	kwˤajh
 則	tsˤək
@@ -922,18 +922,18 @@
 衣	ʔəjh
 狐	gwˤa
 貉	gˤak
-者	taʔ
+者	tiaʔ
 立	rəp
 ，
 而	nə
 不	pə
 恥	n̥rəʔ
-者	taʔ
+者	tiaʔ
 ，
 其	gə
-由	liw
+由	lu
 也	lajʔ
-與	ja
+與	jaʔ
 ！
 『
 不	pə
@@ -991,17 +991,17 @@
 ：
 「
 知	treh
-者	taʔ
+者	tiaʔ
 不	pə
 惑	wˤək
 ，
 仁	niŋ
-者	taʔ
+者	tiaʔ
 不	pə
 憂	ʔu
 ，
 勇	loŋʔ
-者	taʔ
+者	tiaʔ
 不	pə
 懼	gwah
 。
@@ -1038,7 +1038,7 @@
 未	məs
 可	kʰˤajʔ
 與	jaʔ
-權	gwran
+權	gron
 。
 」
 「

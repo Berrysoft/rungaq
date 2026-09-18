@@ -1,10 +1,10 @@
 陽	laŋ
-貨	ẘˤaj
+貨	ẘˤajh
 第	lˤih
 十	gip
 七	tsʰit
 陽	laŋ
-貨	ẘˤaj
+貨	ẘˤajh
 欲	jok
 見	kˤenh
 孔	kʰˤoŋʔ
@@ -32,7 +32,7 @@
 拜	pˤrus
 之	tə
 ，
-遇	ŋoh
+遇	ŋroh
 諸	ta
 塗	lˤa
 。
@@ -187,7 +187,7 @@
 ：
 「
 昔	sak
-者	taʔ
+者	tiaʔ
 偃	ʔanʔ
 也	lajʔ
 聞	mun
@@ -243,7 +243,7 @@
 擾	nˤuʔ
 以	ləʔ
 費	prəs
-畔	pʰˤanh
+畔	bˤanh
 ，
 召	drawh
 ，
@@ -281,7 +281,7 @@
 夫	ba
 召	drawh
 我	ŋˤajʔ
-者	taʔ
+者	tiaʔ
 ，
 而	nə
 豈	kʰəjʔ
@@ -292,7 +292,7 @@
 有	wəʔ
 用	loŋ
 我	ŋˤajʔ
-者	taʔ
+者	tiaʔ
 ，
 吾	ŋˤa
 其	gə
@@ -320,7 +320,7 @@
 能	nˤə
 行	gˤraŋ
 五	ŋˤaʔ
-者	taʔ
+者	tiaʔ
 於	ʔa
 天	l̥ˤiŋ
 下	gˤraʔ
@@ -379,7 +379,7 @@
 。
 」
 佛	brət
-肸	m̥rət
+肸	m̥rut
 召	drawh
 ，
 子	tsəʔ
@@ -392,8 +392,8 @@
 ：
 「
 昔	sak
-者	taʔ
-由	liw
+者	tiaʔ
+由	lu
 也	lajʔ
 聞	mun
 諸	ta
@@ -409,7 +409,7 @@
 爲	waj
 不	pə
 善	danʔ
-者	taʔ
+者	tiaʔ
 ，
 君	kun
 子	tsəʔ
@@ -419,11 +419,11 @@
 。
 』
 佛	brət
-肸	m̥rət
+肸	m̥rut
 以	ləʔ
 中	truŋ
 牟	mu
-畔	pʰˤanh
+畔	bˤanh
 ，
 子	tsəʔ
 之	tə
@@ -485,7 +485,7 @@
 曰	wat
 ：
 「
-由	liw
+由	lu
 也	lajʔ
 ，
 女	naʔ
@@ -602,11 +602,11 @@
 》
 可	kʰˤajʔ
 以	ləʔ
-興	hjəŋh
+興	j̊əŋh
 ，
 可	kʰˤajʔ
 以	ləʔ
-觀	kwˤanh
+觀	kˤonh
 ，
 可	kʰˤajʔ
 以	ləʔ
@@ -670,7 +670,7 @@
 而	nə
 立	rəp
 也	lajʔ
-與	ja
+與	jaʔ
 ！
 」
 子	tsəʔ
@@ -722,7 +722,7 @@
 之	tə
 盗	lˤawh
 也	lajʔ
-與	ja
+與	jaʔ
 ？
 」
 子	tsəʔ
@@ -766,7 +766,7 @@
 事	dzrəʔ
 君	kun
 也	lajʔ
-與	ja
+與	jaʔ
 哉	tsˤə
 ？
 其	gə
@@ -804,7 +804,7 @@
 ：
 「
 古	kˤaʔ
-者	taʔ
+者	tiaʔ
 民	min
 有	wəʔ
 三	sˤum
@@ -865,7 +865,7 @@
 「
 巧	kʰˤruʔ
 言	ŋan
-令	C.reŋh
+令	C.reŋ
 色	ŋ̊rək
 ，
 鮮	sanʔ
@@ -895,12 +895,12 @@
 ，
 惡	ʔˤah
 利	ris
-口	kʰˤroʔ
+口	kʰˤoʔ
 之	tə
 覆	pʰuk
 邦	pˤroŋ
 家	kˤra
-者	taʔ
+者	tiaʔ
 。
 」
 子	tsəʔ
@@ -970,8 +970,8 @@
 疾	dzik
 。
 將	tsaŋ
-命	mreŋ
-者	taʔ
+命	mriŋ
+者	tiaʔ
 出	tʰut
 户	gwˤaʔ
 ，
@@ -1188,7 +1188,7 @@
 有	wəʔ
 博	pˤak
 弈	jak
-者	taʔ
+者	tiaʔ
 乎	gˤa
 ？
 爲	waj
@@ -1269,30 +1269,30 @@
 人	niŋ
 之	tə
 惡	ʔˤak
-者	taʔ
+者	tiaʔ
 ，
 惡	ʔˤah
 居	kra
 下	gˤraʔ
-流	ru
+流	C.ru
 而	nə
 訕	sˤran
 上	daŋh
-者	taʔ
+者	tiaʔ
 ，
 惡	ʔˤah
 勇	loŋʔ
 而	nə
 無	ma
 禮	rˤiʔ
-者	taʔ
+者	tiaʔ
 ，
 惡	ʔˤah
 果	kˤojʔ
 敢	kˤamʔ
 而	nə
 窒	trik
-者	taʔ
+者	tiaʔ
 。
 」
 曰	wat
@@ -1312,7 +1312,7 @@
 以	ləʔ
 爲	waj
 知	treh
-者	taʔ
+者	tiaʔ
 ，
 惡	ʔˤah
 不	pə
@@ -1320,14 +1320,14 @@
 以	ləʔ
 爲	waj
 勇	loŋʔ
-者	taʔ
+者	tiaʔ
 ，
 惡	ʔˤah
 訐	krat
 以	ləʔ
 爲	waj
 直	drək
-者	taʔ
+者	tiaʔ
 。
 」
 子	tsəʔ

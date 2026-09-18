@@ -53,13 +53,13 @@
 人	niŋ
 也	lajʔ
 孝	hˤruh
-弟	lˤəjh
+弟	lˤih
 ，
 而	nə
 好	n̥ˤuh
 犯	bamʔ
 上	daŋh
-者	taʔ
+者	tiaʔ
 ，
 鮮	sanʔ
 矣	ʔəʔ
@@ -73,7 +73,7 @@
 好	n̥ˤuh
 作	tsˤak
 亂	rˤonh
-者	taʔ
+者	tiaʔ
 ，
 未	məs
 之	tə
@@ -92,16 +92,16 @@
 生	sreŋ
 ；
 孝	hˤruh
-弟	lˤəjh
+弟	lˤih
 也	lajʔ
-者	taʔ
+者	tiaʔ
 ，
 其	gə
 爲	waj
 仁	niŋ
 之	tə
 本	pˤunʔ
-與	ja
+與	jaʔ
 ？
 」
 子	tsəʔ
@@ -110,7 +110,7 @@
 「
 巧	kʰˤruʔ
 言	ŋan
-令	C.reŋh
+令	C.reŋ
 色	ŋ̊rək
 ，
 鮮	sanʔ
@@ -192,7 +192,7 @@
 ，
 出	tʰut
 則	tsˤək
-弟	lˤəjh
+弟	lˤih
 ，
 謹	kənʔ
 而	nə
@@ -293,7 +293,7 @@
 不	pə
 如	na
 己	kəʔ
-者	taʔ
+者	tiaʔ
 ，
 過	kwˤajh
 則	tsˤək
@@ -343,12 +343,12 @@
 ，
 求	gu
 之	tə
-與	ja
+與	jaʔ
 ？
 抑	ʔi
 與	jaʔ
 之	tə
-與	ja
+與	jaʔ
 ？
 」
 子	tsəʔ
@@ -386,7 +386,7 @@
 之	tə
 求	gu
 之	tə
-與	ja
+與	jaʔ
 ？
 」
 子	tsəʔ
@@ -395,13 +395,13 @@
 「
 父	baʔ
 在	dzˤəʔ
-觀	kwˤan
+觀	kˤon
 其	gə
 志	tə
 ，
 父	baʔ
 没	mˤut
-觀	kwˤan
+觀	kˤon
 其	gə
 行	gˤraŋ
 。
@@ -444,7 +444,7 @@
 ；
 小	sewʔ
 大	lˤas
-由	liw
+由	lu
 之	tə
 。
 有	wəʔ
@@ -582,7 +582,7 @@
 而	nə
 好	n̥ˤuh
 禮	rˤiʔ
-者	taʔ
+者	tiaʔ
 也	lajʔ
 」
 。
@@ -612,7 +612,7 @@
 斯	se
 之	tə
 謂	wəs
-與	ja
+與	jaʔ
 ？
 」
 子	tsəʔ
@@ -638,7 +638,7 @@
 而	nə
 知	tre
 來	C.rˤəh
-者	taʔ
+者	tiaʔ
 。
 」
 子	tsəʔ

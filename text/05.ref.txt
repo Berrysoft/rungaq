@@ -1,12 +1,12 @@
 公	kjoŋ
-冶	jaʔ
+冶	jiaʔ
 長	draŋ
 第	lˤih
 五	ŋˤaʔ
 子	tsəʔ
 謂	wəs
 公	kjoŋ
-冶	jaʔ
+冶	jiaʔ
 長	draŋ
 ，
 「
@@ -80,7 +80,7 @@
 無	ma
 君	kun
 子	tsəʔ
-者	taʔ
+者	tiaʔ
 ，
 斯	se
 焉	ʔan
@@ -149,7 +149,7 @@
 禦	ŋaʔ
 人	niŋ
 以	ləʔ
-口	kʰˤroʔ
+口	kʰˤoʔ
 給	kəp
 ，
 屢	roh
@@ -205,11 +205,11 @@
 ，
 從	dzoŋ
 我	ŋˤajʔ
-者	taʔ
+者	tiaʔ
 ，
 其	gə
-由	liw
-與	ja
+由	lu
+與	jaʔ
 ？
 」
 子	tsəʔ
@@ -222,7 +222,7 @@
 曰	wat
 ：
 「
-由	liw
+由	lu
 也	lajʔ
 ，
 好	n̥ˤuh
@@ -264,7 +264,7 @@
 曰	wat
 ：
 「
-由	liw
+由	lu
 也	lajʔ
 ，
 千	tsʰˤiŋ
@@ -427,7 +427,7 @@
 曰	wat
 ：
 「
-朽	hjuʔ
+朽	j̊uʔ
 木	mˤok
 不	pə
 可	kʰˤajʔ
@@ -478,7 +478,7 @@
 其	gə
 言	ŋan
 而	nə
-觀	kwˤan
+觀	kˤon
 其	gə
 行	gˤraŋ
 ；
@@ -497,7 +497,7 @@
 未	məs
 見	kˤenh
 剛	kˤaŋ
-者	taʔ
+者	tiaʔ
 。
 」
 或	wˤək
@@ -734,7 +734,7 @@
 曰	wat
 ：
 「
-令	C.reŋh
+令	C.riŋh
 尹	winʔ
 子	tsəʔ
 文	mən
@@ -742,7 +742,7 @@
 三	sˤum
 仕	dzrəʔ
 爲	waj
-令	C.reŋh
+令	C.riŋh
 尹	winʔ
 ，
 無	ma
@@ -758,7 +758,7 @@
 色	ŋ̊rək
 。
 舊	gwəh
-令	C.reŋh
+令	C.riŋh
 尹	winʔ
 之	tə
 政	teŋh
@@ -767,7 +767,7 @@
 以	ləʔ
 告	kˤuk
 新	siŋ
-令	C.reŋh
+令	C.riŋh
 尹	winʔ
 。
 何	gˤaj
@@ -958,10 +958,10 @@
 ：
 「
 歸	kwəj
-與	ja
+與	jaʔ
 ！
 歸	kwəj
-與	ja
+與	jaʔ
 ！
 吾	ŋˤa
 黨	tˤaŋʔ
@@ -1037,7 +1037,7 @@
 巧	kʰˤruʔ
 言	ŋan
 、
-令	C.reŋh
+令	C.reŋ
 色	ŋ̊rək
 、
 足	tsok
@@ -1097,7 +1097,7 @@
 ：
 「
 願	ŋonh
-車	j̊a
+車	j̊ia
 馬	mˤraʔ
 衣	ʔəj
 裘	gwə
@@ -1146,7 +1146,7 @@
 ：
 「
 老	C.rˤuʔ
-者	taʔ
+者	tiaʔ
 安	ʔˤan
 之	tə
 ，
@@ -1156,7 +1156,7 @@
 之	tə
 ，
 少	stewh
-者	taʔ
+者	tiaʔ
 懷	gˤruj
 之	tə
 。
@@ -1181,7 +1181,7 @@
 内	nˤəps
 自	dzis
 訟	sjoŋ
-者	taʔ
+者	tiaʔ
 也	lajʔ
 。
 」
@@ -1200,7 +1200,7 @@
 信	siŋ
 如	na
 丘	kʰwə
-者	taʔ
+者	tiaʔ
 焉	ʔan
 ，
 不	pə

@@ -113,27 +113,27 @@
 「
 有	wəʔ
 德	tˤək
-者	taʔ
+者	tiaʔ
 必	pik
 有	wəʔ
 言	ŋan
 ，
 有	wəʔ
 言	ŋan
-者	taʔ
+者	tiaʔ
 不	pə
 必	pik
 有	wəʔ
 德	tˤək
 。
 仁	niŋ
-者	taʔ
+者	tiaʔ
 必	pik
 有	wəʔ
 勇	loŋʔ
 ，
 勇	loŋʔ
-者	taʔ
+者	tiaʔ
 不	pə
 必	pik
 有	wəʔ
@@ -152,7 +152,7 @@
 「
 羿	ŋˤeh
 善	danʔ
-射	mlah
+射	mliah
 ，
 奡	ŋˤawh
 盪	lˤaŋʔ
@@ -211,7 +211,7 @@
 而	nə
 不	pə
 仁	niŋ
-者	taʔ
+者	tiaʔ
 有	wəʔ
 矣	ʔəʔ
 夫	ba
@@ -222,7 +222,7 @@
 人	niŋ
 而	nə
 仁	niŋ
-者	taʔ
+者	tiaʔ
 也	lajʔ
 ！
 」
@@ -252,7 +252,7 @@
 ：
 「
 爲	waj
-命	mreŋ
+命	mriŋ
 ，
 裨	be
 諶	dum
@@ -370,7 +370,7 @@
 爲	waj
 趙	drewʔ
 、
-魏	ŋujh
+魏	ŋuj
 老	C.rˤuʔ
 則	tsˤək
 優	ʔu
@@ -442,7 +442,7 @@
 之	tə
 成	deŋ
 人	niŋ
-者	taʔ
+者	tiaʔ
 ，
 何	gˤaj
 必	pik
@@ -456,7 +456,7 @@
 見	kˤenh
 危	ŋoj
 授	duh
-命	mreŋ
+命	mriŋ
 ，
 久	kwəʔ
 要	ʔew
@@ -513,7 +513,7 @@
 「
 以	ləʔ
 告	kˤuk
-者	taʔ
+者	tiaʔ
 過	kwˤaj
 也	lajʔ
 ！
@@ -601,7 +601,7 @@
 晋	tsiŋh
 文	mən
 公	kjoŋ
-譎	kwˤik
+譎	kwˤit
 而	nə
 不	pə
 正	teŋ
@@ -612,7 +612,7 @@
 正	teŋ
 而	nə
 不	pə
-譎	kwˤik
+譎	kwˤit
 。
 」
 子	tsəʔ
@@ -660,7 +660,7 @@
 不	pə
 以	ləʔ
 兵	praŋ
-車	j̊a
+車	j̊ia
 ，
 管	kˤonʔ
 仲	druŋh
@@ -686,8 +686,8 @@
 仲	druŋh
 非	pəj
 仁	niŋ
-者	taʔ
-與	ja
+者	tiaʔ
+與	jaʔ
 ？
 桓	wˤar
 公	kjoŋ
@@ -944,7 +944,7 @@
 三	sˤum
 子	tsəʔ
 』
-者	taʔ
+者	tiaʔ
 ！
 」
 之	tə
@@ -1016,14 +1016,14 @@
 古	kˤaʔ
 之	tə
 學	gˤruk
-者	taʔ
+者	tiaʔ
 爲	waj
 己	kəʔ
 ，
 今	kum
 之	tə
 學	gˤruk
-者	taʔ
+者	tiaʔ
 爲	waj
 人	niŋ
 。
@@ -1072,7 +1072,7 @@
 。
 」
 使	srəʔ
-者	taʔ
+者	tiaʔ
 出	tʰut
 。
 子	tsəʔ
@@ -1137,7 +1137,7 @@
 君	kun
 子	tsəʔ
 道	lˤuʔ
-者	taʔ
+者	tiaʔ
 三	sˤum
 ，
 我	ŋˤajʔ
@@ -1146,17 +1146,17 @@
 焉	ʔan
 ：
 仁	niŋ
-者	taʔ
+者	tiaʔ
 不	pə
 憂	ʔu
 ，
 知	treh
-者	taʔ
+者	tiaʔ
 不	pə
 惑	wˤək
 ，
 勇	loŋʔ
-者	taʔ
+者	tiaʔ
 不	pə
 懼	gwah
 。
@@ -1231,7 +1231,7 @@
 亦	jak
 先	sˤən
 覺	kˤruk
-者	taʔ
+者	tiaʔ
 ，
 是	deʔ
 賢	gˤin
@@ -1254,8 +1254,8 @@
 是	deʔ
 栖	sˤəj
 栖	sˤəj
-者	taʔ
-與	ja
+者	tiaʔ
+與	jaʔ
 ？
 無	ma
 乃	nˤəʔ
@@ -1374,7 +1374,7 @@
 ，
 知	tre
 我	ŋˤajʔ
-者	taʔ
+者	tiaʔ
 ，
 其	gə
 天	l̥ˤiŋ
@@ -1431,9 +1431,9 @@
 將	tsaŋ
 行	gˤraŋ
 也	lajʔ
-與	ja
+與	jaʔ
 ，
-命	mreŋ
+命	mriŋ
 也	lajʔ
 ；
 道	lˤuʔ
@@ -1441,9 +1441,9 @@
 將	tsaŋ
 廢	pas
 也	lajʔ
-與	ja
+與	jaʔ
 ，
-命	mreŋ
+命	mriŋ
 也	lajʔ
 。
 公	kjoŋ
@@ -1451,7 +1451,7 @@
 寮	rˤew
 其	gə
 如	na
-命	mreŋ
+命	mriŋ
 何	gˤaj
 ？
 」
@@ -1460,22 +1460,22 @@
 ：
 「
 賢	gˤin
-者	taʔ
+者	tiaʔ
 辟	beh
 世	l̥as
 ，
 其	gə
-次	tsʰis
+次	tsʰih
 辟	beh
-地	lˤaj
+地	lˤajh
 ，
 其	gə
-次	tsʰis
+次	tsʰih
 辟	beh
 色	ŋ̊rək
 ，
 其	gə
-次	tsʰis
+次	tsʰih
 辟	beh
 言	ŋan
 。
@@ -1485,7 +1485,7 @@
 ：
 「
 作	tsˤak
-者	taʔ
+者	tiaʔ
 七	tsʰit
 人	niŋ
 矣	ʔəʔ
@@ -1528,8 +1528,8 @@
 而	nə
 爲	waj
 之	tə
-者	taʔ
-與	ja
+者	tiaʔ
+與	jaʔ
 ？
 」
 子	tsəʔ
@@ -1547,7 +1547,7 @@
 氏	deʔ
 之	tə
 門	mˤən
-者	taʔ
+者	tiaʔ
 ，
 曰	wat
 ：
@@ -1743,7 +1743,7 @@
 姓	seŋh
 ，
 堯	ŋˤew
-舜	l̥unh
+舜	stunh
 其	gə
 猶	ju
 病	braŋh
@@ -1763,7 +1763,7 @@
 而	nə
 不	pə
 孫	sˤunh
-弟	lˤəjh
+弟	lˤih
 ，
 長	traŋʔ
 而	nə
@@ -1785,14 +1785,14 @@
 杖	draŋʔ
 叩	kʰˤoʔ
 其	gə
-脛	gˤeŋh
+脛	gˤeŋʔ
 。
 闕	kʰwat
 黨	tˤaŋʔ
 童	dˤoŋ
 子	tsəʔ
 將	tsaŋ
-命	mreŋ
+命	mriŋ
 。
 或	wˤək
 問	munh
@@ -1801,8 +1801,8 @@
 ：
 「
 益	ʔek
-者	taʔ
-與	ja
+者	tiaʔ
+與	jaʔ
 ？
 」
 子	tsəʔ
@@ -1829,13 +1829,13 @@
 非	pəj
 求	gu
 益	ʔek
-者	taʔ
+者	tiaʔ
 也	lajʔ
 ，
 欲	jok
 速	sˤok
 成	deŋ
-者	taʔ
+者	tiaʔ
 也	lajʔ
 。
 」

@@ -43,14 +43,14 @@
 爾	neʔ
 是	deʔ
 過	kwˤajh
-與	ja
+與	jaʔ
 ？
 夫	ba
 顓	tor
 臾	jo
 ，
 昔	sak
-者	taʔ
+者	tiaʔ
 先	sˤən
 王	waŋ
 以	ləʔ
@@ -59,7 +59,7 @@
 蒙	mˤoŋ
 主	toʔ
 ，
-且	tsʰaʔ
+且	tsʰiaʔ
 在	dzˤəʔ
 邦	pˤroŋ
 域	wrək
@@ -68,7 +68,7 @@
 矣	ʔəʔ
 ，
 是	deʔ
-社	daʔ
+社	diaʔ
 稷	tsək
 之	tə
 臣	gin
@@ -93,7 +93,7 @@
 吾	ŋˤa
 二	nis
 臣	gin
-者	taʔ
+者	tiaʔ
 ，
 皆	kˤriʔ
 不	pə
@@ -122,7 +122,7 @@
 ，
 不	pə
 能	nˤə
-者	taʔ
+者	tiaʔ
 止	təʔ
 。
 』
@@ -144,7 +144,7 @@
 相	saŋh
 矣	ʔəʔ
 ？
-且	tsʰaʔ
+且	tsʰiaʔ
 爾	neʔ
 言	ŋan
 過	kwˤajh
@@ -167,7 +167,7 @@
 誰	duj
 之	tə
 過	kwˤajh
-與	ja
+與	jaʔ
 ？
 」
 冉	namʔ
@@ -210,7 +210,7 @@
 子	tsəʔ
 疾	dzik
 夫	ba
-舍	l̥aʔ
+舍	l̥iaʔ
 曰	wat
 欲	jok
 之	tə
@@ -227,7 +227,7 @@
 國	kwˤək
 有	wəʔ
 家	kˤra
-者	taʔ
+者	tiaʔ
 ，
 不	pə
 患	gˤron
@@ -285,7 +285,7 @@
 之	tə
 。
 今	kum
-由	liw
+由	lu
 與	jaʔ
 求	gu
 也	lajʔ
@@ -409,7 +409,7 @@
 臣	gin
 執	tip
 國	kwˤək
-命	mreŋ
+命	mriŋ
 ，
 三	sˤum
 世	l̥as
@@ -482,12 +482,12 @@
 ：
 「
 益	ʔek
-者	taʔ
+者	tiaʔ
 三	sˤum
 友	wəʔ
 ，
 損	wrən
-者	taʔ
+者	tiaʔ
 三	sˤum
 友	wəʔ
 ：
@@ -526,12 +526,12 @@
 ：
 「
 益	ʔek
-者	taʔ
+者	tiaʔ
 三	sˤum
 樂	rˤawh
 ，
 損	wrən
-者	taʔ
+者	tiaʔ
 三	sˤum
 樂	rˤawh
 ：
@@ -686,7 +686,7 @@
 ：
 畏	ʔuj
 天	l̥ˤiŋ
-命	mreŋ
+命	mriŋ
 ，
 畏	ʔuj
 大	lˤas
@@ -703,7 +703,7 @@
 不	pə
 知	tre
 天	l̥ˤiŋ
-命	mreŋ
+命	mriŋ
 而	nə
 不	pə
 畏	ʔuj
@@ -729,7 +729,7 @@
 而	nə
 知	tre
 之	tə
-者	taʔ
+者	tiaʔ
 ，
 上	daŋh
 也	lajʔ
@@ -738,9 +738,9 @@
 而	nə
 知	tre
 之	tə
-者	taʔ
+者	tiaʔ
 ，
-次	tsʰis
+次	tsʰih
 也	lajʔ
 ；
 困	kʰˤunh
@@ -750,7 +750,7 @@
 ，
 又	wəh
 其	gə
-次	tsʰis
+次	tsʰih
 也	lajʔ
 。
 困	kʰˤunh
@@ -830,7 +830,7 @@
 不	pə
 善	danʔ
 如	na
-探	l̥ˤəm
+探	l̥ˤum
 湯	l̥ˤaŋ
 。
 』
@@ -916,7 +916,7 @@
 斯	se
 之	tə
 謂	wəs
-與	ja
+與	jaʔ
 ？
 陳	lrən
 亢	kˤaŋ
@@ -1038,7 +1038,7 @@
 聞	mun
 斯	se
 二	nis
-者	taʔ
+者	tiaʔ
 。
 」
 陳	lrən

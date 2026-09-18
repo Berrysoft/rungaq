@@ -17,7 +17,7 @@
 不	pə
 能	nˤə
 言	ŋan
-者	taʔ
+者	tiaʔ
 。
 其	gə
 在	dzˤəʔ
@@ -114,7 +114,7 @@
 ，
 必	pik
 復	buh
-命	mreŋ
+命	mriŋ
 ，
 曰	wat
 ：
@@ -145,7 +145,7 @@
 ，
 行	gˤraŋ
 不	pə
-履	C.riʔ
+履	riʔ
 閾	ẘrək
 。
 過	kwˤaj
@@ -166,7 +166,7 @@
 似	sləʔ
 不	pə
 足	tsok
-者	taʔ
+者	tiaʔ
 。
 攝	step
 齊	tsi
@@ -183,7 +183,7 @@
 似	sləʔ
 不	pə
 息	sək
-者	taʔ
+者	tiaʔ
 。
 出	tʰut
 ，
@@ -201,7 +201,7 @@
 也	lajʔ
 。
 没	mˤut
-階	kˤri
+階	kˤrəj
 ，
 趨	tsʰo
 進	tsiŋ
@@ -271,7 +271,7 @@
 不	pə
 以	ləʔ
 紺	kˤumh
-緅	tsˤro
+緅	tsˤo
 飾	l̥ək
 ，
 紅	gˤoŋ
@@ -326,7 +326,7 @@
 長	draŋ
 一	ʔit
 身	l̥iŋ
-有	wəh
+有	wəʔ
 半	pˤanh
 。
 狐	gwˤa
@@ -540,7 +540,7 @@
 酒	tsuʔ
 ，
 杖	draŋʔ
-者	taʔ
+者	tiaʔ
 出	tʰut
 ，
 斯	se
@@ -557,7 +557,7 @@
 立	rəp
 於	ʔa
 阼	dzˤah
-階	kˤri
+階	kˤrəj
 。
 問	munh
 人	niŋ
@@ -573,7 +573,7 @@
 。
 康	kʰˤaŋ
 子	tsəʔ
-饋	grujh
+饋	gwrəjh
 藥	lawk
 ，
 拜	pˤrus
@@ -638,7 +638,7 @@
 生	sreŋ
 ，
 必	pik
-畜	hjuk
+畜	j̊uk
 之	tə
 。
 侍	dəh
@@ -668,7 +668,7 @@
 紳	l̥ən
 。
 君	kun
-命	mreŋh
+命	mriŋ
 召	drawh
 ，
 不	pə
@@ -704,10 +704,10 @@
 朋	bˤəŋ
 友	wəʔ
 之	tə
-饋	grujh
+饋	gwrəjh
 ，
 雖	ẘi
-車	j̊a
+車	j̊ia
 馬	mˤraʔ
 ，
 非	pəj
@@ -728,7 +728,7 @@
 見	kˤenh
 齊	tsi
 衰	tsʰˤuj
-者	taʔ
+者	tiaʔ
 ，
 雖	ẘi
 狎	gˤrap
@@ -737,10 +737,10 @@
 。
 見	kˤenh
 冕	mranʔ
-者	taʔ
+者	tiaʔ
 與	jaʔ
 瞽	kwˤaʔ
-者	taʔ
+者	tiaʔ
 ，
 雖	ẘi
 褻	ŋ̊et
@@ -750,14 +750,14 @@
 。
 凶	hoŋ
 服	bək
-者	taʔ
+者	tiaʔ
 式	l̥ək
 之	tə
 。
 式	l̥ək
 負	bəʔ
 版	pˤranʔ
-者	taʔ
+者	tiaʔ
 。
 有	wəʔ
 盛	deŋ
@@ -779,7 +779,7 @@
 變	pronh
 。
 升	stəŋ
-車	j̊a
+車	j̊ia
 ，
 必	pik
 正	teŋ
@@ -788,7 +788,7 @@
 執	tip
 綏	n̥uj
 。
-車	j̊a
+車	j̊ia
 中	truŋ
 不	pə
 内	nˤəps
