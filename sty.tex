@@ -5,6 +5,7 @@
 \usepackage[fontsize=20pt]{fontsize}
 \usepackage{geometry}
 \usepackage{hyperref}
+\usepackage[headings,twoside]{fancyhdr}
 
 \geometry{a4paper, scale=0.8}
 
@@ -14,14 +15,24 @@
 
 \newcommand{\iparuby}[2]{\ruby{#1}{\ipafont #2}}
 \ctexset{
-  subsection/format += \centering
+  subsection/format += \centering,
+  part = {
+    name = {,},
+    number = {},
+    aftername = {},
+    tocline = {#2},
+  }
 }
 
 \input{sty/00.ruby.tex}
-\author{上古汉语音节表 26.8.21}
+\author{上古汉语音节表 26.9.21}
 \date{}
 
 \setcounter{secnumdepth}{0}
+
+\setlength{\headheight}{15pt}
+\pagestyle{headings}
+\fancyhead[RE]{\textsl{\rightmark}}
 
 \begin{document}
 \maketitle
@@ -31,13 +42,13 @@
 \kaishu
 \setlength{\parskip}{1em}
 
-\input{sty/kwykpym.ruby.tex}
+\input{sty/01.ruby.tex}
 
-\input{sty/kwykpym/tiwnym.ruby.tex}
-\input{sty/kwykpym/dawhnym.ruby.tex}
-\input{sty/kwykpym/byh.ruby.tex}
-\input{sty/kwykpym/long.ruby.tex}
+\input{sty/01/01.ruby.tex}
+\input{sty/01/02.ruby.tex}
+\input{sty/01/03.ruby.tex}
+\input{sty/01/04.ruby.tex}
 
-\input{sty/kwykpym/kwas.ruby.tex}
+\input{sty/01/13.ruby.tex}
 
 \end{document}
