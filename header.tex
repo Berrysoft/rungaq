@@ -4,7 +4,7 @@
 \usepackage{fontspec}
 \usepackage[fontsize=20pt]{fontsize}
 \usepackage{geometry}
-\usepackage{hyperref}
+\usepackage[hidelinks]{hyperref}
 \usepackage[headings,twoside]{fancyhdr}
 
 \geometry{a4paper, scale=0.8}
@@ -21,15 +21,15 @@
 \pagestyle{headings}
 \fancyhead[RE]{\textsl{\rightmark}}
 
-\author{上古汉语音节表 26.9.21}
+\author{注音：上古汉语音节表 26.9.21\\\url{https://github.com/Berrysoft/rungaq}}
 \date{}
 
 \ctexset{
   subsection/format += \centering,
   part = {
-    name = {,},
-    number = {},
-    aftername = {},
-    tocline = {#2},
-  }
+      name = {,},
+      number = {},
+      aftername = {},
+      tocline = {#2},
+    }
 }
