@@ -509,7 +509,7 @@
 。
 」
 「
-居	kra
+居	kah
 ！
 吾	ŋˤa
 語	ŋah
@@ -1079,7 +1079,7 @@
 君	kun
 子	tsəʔ
 之	tə
-居	kra
+居	ka
 喪	sˤaŋ
 ，
 食	mlək
@@ -1092,7 +1092,7 @@
 不	pə
 樂	rˤawk
 ，
-居	kra
+居	ka
 處	tʰah
 不	pə
 安	ʔˤan
@@ -1272,7 +1272,7 @@
 者	tiaʔ
 ，
 惡	ʔˤah
-居	kra
+居	ka
 下	gˤraʔ
 流	C.ru
 而	nə
@@ -1311,7 +1311,7 @@
 徼	kˤew
 以	ləʔ
 爲	waj
-知	treh
+知	tre
 者	tiaʔ
 ，
 惡	ʔˤah
