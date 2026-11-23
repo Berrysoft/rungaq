@@ -225,7 +225,7 @@
 其	gə
 豵	tsˤoŋ
 ，
-獻	ŋ̊ar
+獻	ŋ̊arh
 豜	kˤen
 于	wa
 公	kjoŋ
@@ -278,7 +278,7 @@
 墐	kən
 户	gwˤaʔ
 。
-嗟	tsia
+嗟	tsaj
 我	ŋˤajʔ
 婦	bəʔ
 子	tsəʔ
@@ -374,7 +374,7 @@
 菽	stuk
 麥	mˤrək
 。
-嗟	tsia
+嗟	tsaj
 我	ŋˤajʔ
 農	nˤuŋ
 夫	pa
@@ -433,7 +433,7 @@
 其	gə
 蚤	tsˤuʔ
 ，
-獻	ŋ̊ar
+獻	ŋ̊ˤar
 羔	kˤu
 祭	tses
 韭	kuʔ
@@ -495,7 +495,7 @@
 勤	gən
 斯	se
 ，
-鬻	juk
+鬻	luk
 子	tsəʔ
 之	tə
 閔	mrənʔ

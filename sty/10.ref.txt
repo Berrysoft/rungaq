@@ -30,7 +30,7 @@
 職	tək
 思	sə
 其	gə
-居	kra
+居	ka
 。
 好	n̥ˤuh
 樂	rˤawk
@@ -578,8 +578,8 @@
 自	dzis
 我	ŋˤajʔ
 人	niŋ
-居	krah
-居	krah
+居	kah
+居	kah
 。
 豈	kʰəjʔ
 無	ma
@@ -902,7 +902,7 @@
 歸	kwəj
 于	wa
 其	gə
-居	krah
+居	kah
 。
 冬	tˤuŋ
 之	tə

@@ -474,7 +474,7 @@
 綴	tros
 旒	ru
 ，
-何	gˤajʔ
+何	gˤaj
 天	l̥ˤiŋ
 之	tə
 休	hu
@@ -650,7 +650,7 @@
 荆	kreŋ
 楚	tsʰraʔ
 ，
-居	kra
+居	ka
 國	kwˤək
 南	nˤəm
 鄉	haŋ
